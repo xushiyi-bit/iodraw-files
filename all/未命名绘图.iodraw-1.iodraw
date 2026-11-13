@@ -27,6 +27,11 @@
         <mxCell id="DAosmsPP2utPB2Mj6VXo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="DAosmsPP2utPB2Mj6VXo-4" target="DAosmsPP2utPB2Mj6VXo-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DAosmsPP2utPB2Mj6VXo-16" value="UDP：语音、视频媒体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DAosmsPP2utPB2Mj6VXo-15">
+          <mxGeometry x="0.0363" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-4" value="UDP 媒体端点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="339.06716417910445" y="296.6371681415929" width="103.17164179104476" height="43.36283185840708" as="geometry" />
         </mxCell>
