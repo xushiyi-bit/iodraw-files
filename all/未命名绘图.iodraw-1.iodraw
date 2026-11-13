@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-18" value="UDP：语言、视频媒体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DAosmsPP2utPB2Mj6VXo-17">
           <mxGeometry x="0.0688" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="6" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-3" value="Windows 客户端 B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-16" value="UDP：语音、视频媒体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DAosmsPP2utPB2Mj6VXo-15">
           <mxGeometry x="0.0363" y="-2" relative="1" as="geometry">
-            <mxPoint x="-1" y="-6" as="offset" />
+            <mxPoint x="6" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-4" value="UDP 媒体端点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
