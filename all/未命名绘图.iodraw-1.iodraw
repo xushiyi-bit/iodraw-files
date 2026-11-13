@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-12" value="TLS/TCP：控制、文本、文件转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DAosmsPP2utPB2Mj6VXo-11">
           <mxGeometry x="0.0174" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="12" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-2" value="MiniTalk 中心服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
