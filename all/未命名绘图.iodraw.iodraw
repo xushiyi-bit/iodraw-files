@@ -49,11 +49,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t9oSiUf2rRLqkH4EcXWD-20" value="比对证书 SHA-256 指纹" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="t9oSiUf2rRLqkH4EcXWD-8" target="t9oSiUf2rRLqkH4EcXWD-8">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0896" y="51" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="169" y="239" />
               <mxPoint x="169" y="269" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t9oSiUf2rRLqkH4EcXWD-21" value="关闭连接并提示错误" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="t9oSiUf2rRLqkH4EcXWD-8" target="t9oSiUf2rRLqkH4EcXWD-8">
