@@ -36,7 +36,7 @@
         </mxCell>
         <mxCell id="JxxA7cLPcwbp5KOIFiis-9" value="UDP：&lt;div&gt;语音、视频媒体&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JxxA7cLPcwbp5KOIFiis-7">
           <mxGeometry x="-0.2995" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" as="offset" />
+            <mxPoint x="2" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JxxA7cLPcwbp5KOIFiis-2" value="UDP 媒体端点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
         </mxCell>
         <mxCell id="JxxA7cLPcwbp5KOIFiis-13" value="TLS/TCP：&lt;div&gt;控制、文本、文件转发&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JxxA7cLPcwbp5KOIFiis-12">
           <mxGeometry x="-0.3249" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JxxA7cLPcwbp5KOIFiis-3" value="MiniTalk 中心服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
