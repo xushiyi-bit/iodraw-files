@@ -10,7 +10,7 @@
         <mxCell id="DAosmsPP2utPB2Mj6VXo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="DAosmsPP2utPB2Mj6VXo-2" target="DAosmsPP2utPB2Mj6VXo-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAosmsPP2utPB2Mj6VXo-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DAosmsPP2utPB2Mj6VXo-11">
+        <mxCell id="DAosmsPP2utPB2Mj6VXo-12" value="TLS/TCP：控制、文本、文件转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DAosmsPP2utPB2Mj6VXo-11">
           <mxGeometry x="0.0174" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
