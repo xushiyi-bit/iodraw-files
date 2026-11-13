@@ -24,7 +24,7 @@
         <mxCell id="DAosmsPP2utPB2Mj6VXo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="DAosmsPP2utPB2Mj6VXo-3" target="DAosmsPP2utPB2Mj6VXo-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAosmsPP2utPB2Mj6VXo-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DAosmsPP2utPB2Mj6VXo-17">
+        <mxCell id="DAosmsPP2utPB2Mj6VXo-18" value="UDP：语言、视频媒体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DAosmsPP2utPB2Mj6VXo-17">
           <mxGeometry x="0.0688" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
