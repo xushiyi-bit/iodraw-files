@@ -27,10 +27,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-6" value="TLS/TCP：控制、文本、文件转发" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0.19;entryY=0.01;rounded=0;" edge="1" parent="DAosmsPP2utPB2Mj6VXo-10" source="DAosmsPP2utPB2Mj6VXo-2" target="DAosmsPP2utPB2Mj6VXo-3">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2421" y="13" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="496.2686567164179" y="21.238938053097346" />
+              <mxPoint x="610" y="20" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-7" value="局域网 TCP：文件直连，AES-GCM 保护" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="DAosmsPP2utPB2Mj6VXo-10" source="DAosmsPP2utPB2Mj6VXo-1" target="DAosmsPP2utPB2Mj6VXo-3">
