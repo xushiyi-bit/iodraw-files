@@ -16,9 +16,10 @@
         <mxCell id="DAosmsPP2utPB2Mj6VXo-4" value="UDP 媒体端点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="339.06716417910445" y="296.6371681415929" width="103.17164179104476" height="43.36283185840708" as="geometry" />
         </mxCell>
-        <mxCell id="DAosmsPP2utPB2Mj6VXo-5" value="TLS/TCP：控制、文本、文件转发" style="curved=0;startArrow=block;endArrow=block;exitX=0.81;exitY=0.01;entryX=0;entryY=0.5;rounded=1;" edge="1" parent="1" source="DAosmsPP2utPB2Mj6VXo-1" target="DAosmsPP2utPB2Mj6VXo-2">
+        <mxCell id="DAosmsPP2utPB2Mj6VXo-5" value="TLS/TCP：控制、文本、文件转发" style="curved=0;startArrow=block;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DAosmsPP2utPB2Mj6VXo-1" target="DAosmsPP2utPB2Mj6VXo-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="140" y="162" />
               <mxPoint x="244.38432835820896" y="161.23893805309734" />
             </Array>
           </mxGeometry>
