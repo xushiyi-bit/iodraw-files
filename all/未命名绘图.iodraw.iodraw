@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="55" width="157" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Yh79WS0XnLaW9L72m8sk-3" value="UTF-8 JSON 载荷&#xa;最多 4 MiB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="267" y="55" width="180" height="66" as="geometry" />
+          <mxGeometry x="310" y="55" width="180" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Yh79WS0XnLaW9L72m8sk-4" value="JSON 消息信封&#xa;v　协议版本（当前为 1）&#xa;type　消息类型&#xa;id　报文标识&#xa;data　业务数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="29" width="242" height="119" as="geometry" />
