@@ -32,13 +32,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DAosmsPP2utPB2Mj6VXo-8" value="UDP：语音、视频媒体" style="curved=1;dashed=1;dashPattern=2 3;startArrow=block;endArrow=block;exitX=0.81;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="DAosmsPP2utPB2Mj6VXo-1" target="DAosmsPP2utPB2Mj6VXo-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="244.38432835820896" y="317.87610619469024" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-9" value="UDP：语音、视频媒体" style="curved=1;dashed=1;dashPattern=2 3;startArrow=block;endArrow=block;exitX=1;exitY=0.49;entryX=0.19;entryY=1;rounded=0;" edge="1" parent="1" source="DAosmsPP2utPB2Mj6VXo-4" target="DAosmsPP2utPB2Mj6VXo-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
