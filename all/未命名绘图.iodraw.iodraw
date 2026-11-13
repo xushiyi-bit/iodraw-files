@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JxxA7cLPcwbp5KOIFiis-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JxxA7cLPcwbp5KOIFiis-1" value="Windows客户端A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JxxA7cLPcwbp5KOIFiis-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JxxA7cLPcwbp5KOIFiis-2" value="UDP 媒体端点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JxxA7cLPcwbp5KOIFiis-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JxxA7cLPcwbp5KOIFiis-3" value="MiniTalk 中心服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JxxA7cLPcwbp5KOIFiis-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JxxA7cLPcwbp5KOIFiis-4" value="Windows客户端B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
