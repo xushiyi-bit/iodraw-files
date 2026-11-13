@@ -5,31 +5,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DAosmsPP2utPB2Mj6VXo-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="20" width="740" height="210" as="geometry" />
+          <mxGeometry x="40" y="140" width="700" height="200" as="geometry" />
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-1" value="Windows 客户端 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DAosmsPP2utPB2Mj6VXo-10">
-          <mxGeometry y="81.76991150442478" width="131.84701492537312" height="45.530973451327434" as="geometry" />
+          <mxGeometry y="77.87610619469027" width="124.72014925373132" height="43.36283185840708" as="geometry" />
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-2" value="MiniTalk 中心服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DAosmsPP2utPB2Mj6VXo-10">
-          <mxGeometry x="300.27985074626866" width="140.13059701492537" height="45.530973451327434" as="geometry" />
+          <mxGeometry x="284.0485074626866" width="132.55597014925374" height="43.36283185840708" as="geometry" />
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-3" value="Windows 客户端 B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DAosmsPP2utPB2Mj6VXo-10">
-          <mxGeometry x="608.8432835820896" y="81.76991150442478" width="131.15671641791045" height="45.530973451327434" as="geometry" />
+          <mxGeometry x="575.9328358208955" y="77.87610619469027" width="124.06716417910448" height="43.36283185840708" as="geometry" />
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-4" value="UDP 媒体端点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DAosmsPP2utPB2Mj6VXo-10">
-          <mxGeometry x="316.15671641791045" y="164.46902654867256" width="109.06716417910447" height="45.530973451327434" as="geometry" />
+          <mxGeometry x="299.06716417910445" y="156.6371681415929" width="103.17164179104476" height="43.36283185840708" as="geometry" />
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-5" value="TLS/TCP：控制、文本、文件转发" style="curved=1;startArrow=block;endArrow=block;exitX=0.81;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="DAosmsPP2utPB2Mj6VXo-10" source="DAosmsPP2utPB2Mj6VXo-1" target="DAosmsPP2utPB2Mj6VXo-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="216.0634328358209" y="22.300884955752213" />
+              <mxPoint x="204.38432835820896" y="21.238938053097346" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-6" value="TLS/TCP：控制、文本、文件转发" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0.19;entryY=0.01;rounded=0;" edge="1" parent="DAosmsPP2utPB2Mj6VXo-10" source="DAosmsPP2utPB2Mj6VXo-2" target="DAosmsPP2utPB2Mj6VXo-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="524.6268656716418" y="22.300884955752213" />
+              <mxPoint x="496.2686567164179" y="21.238938053097346" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -41,14 +41,14 @@
         <mxCell id="DAosmsPP2utPB2Mj6VXo-8" value="UDP：语音、视频媒体" style="curved=1;dashed=1;dashPattern=2 3;startArrow=block;endArrow=block;exitX=0.81;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="DAosmsPP2utPB2Mj6VXo-10" source="DAosmsPP2utPB2Mj6VXo-1" target="DAosmsPP2utPB2Mj6VXo-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="216.0634328358209" y="186.76991150442478" />
+              <mxPoint x="204.38432835820896" y="177.87610619469027" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DAosmsPP2utPB2Mj6VXo-9" value="UDP：语音、视频媒体" style="curved=1;dashed=1;dashPattern=2 3;startArrow=block;endArrow=block;exitX=1;exitY=0.49;entryX=0.19;entryY=1;rounded=0;" edge="1" parent="DAosmsPP2utPB2Mj6VXo-10" source="DAosmsPP2utPB2Mj6VXo-4" target="DAosmsPP2utPB2Mj6VXo-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="524.6268656716418" y="186.76991150442478" />
+              <mxPoint x="496.2686567164179" y="177.87610619469027" />
             </Array>
           </mxGeometry>
         </mxCell>
