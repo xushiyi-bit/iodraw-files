@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="20" width="480" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Yh79WS0XnLaW9L72m8sk-2" value="4 字节长度前缀&#xa;大端无符号整数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="55" width="172" height="66" as="geometry" />
+          <mxGeometry x="50" y="55" width="157" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Yh79WS0XnLaW9L72m8sk-3" value="UTF-8 JSON 载荷&#xa;最多 4 MiB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="267" y="55" width="180" height="66" as="geometry" />
