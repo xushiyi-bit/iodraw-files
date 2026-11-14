@@ -77,7 +77,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="160" width="580" height="290" as="geometry" />
+          <mxGeometry x="124" y="180" width="580" height="290" as="geometry" />
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-1" value="界面线程&#xa;响应操作、更新界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vwaiIxEDn5HeMrcnmjZL-8">
           <mxGeometry x="167.04000000000002" width="236.64000000000001" height="79.75000000000001" as="geometry" />
