@@ -500,9 +500,7 @@
         <mxCell id="tLMuchvxvVEmmMeO-nco-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-15" target="tLMuchvxvVEmmMeO-nco-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="1020" />
-              <mxPoint x="600" y="1020" />
-              <mxPoint x="600" y="945" />
+              <mxPoint x="488" y="943" />
             </Array>
           </mxGeometry>
         </mxCell>
