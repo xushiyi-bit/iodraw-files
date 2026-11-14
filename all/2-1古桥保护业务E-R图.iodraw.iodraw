@@ -590,7 +590,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-32" value="" style="startArrow=none;endArrow=block;exitX=0.52;exitY=0.01;entryX=0.88;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-15" target="tLMuchvxvVEmmMeO-nco-7">
+        <mxCell id="tLMuchvxvVEmmMeO-nco-32" value="" style="startArrow=none;endArrow=block;exitX=0.52;exitY=0.01;entryX=1;entryY=0.75;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-15" target="tLMuchvxvVEmmMeO-nco-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
