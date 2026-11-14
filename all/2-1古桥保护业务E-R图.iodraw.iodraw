@@ -286,10 +286,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-1" value="打开系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="235.004995004995" y="90" width="50.40959040959041" height="22.41758241758242" as="geometry" />
+          <mxGeometry x="418.974995004995" y="30" width="50.40959040959041" height="22.41758241758242" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-2" value="显示数据总览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="215.30469530469531" y="145.3846153846154" width="90.3896103896104" height="32.30769230769231" as="geometry" />
+          <mxGeometry x="379.28469530469533" y="90.00461538461539" width="90.3896103896104" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-3" value="从侧栏选择页面" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="366.99643356643355" y="160" width="93.28671328671328" height="106.15384615384616" as="geometry" />
