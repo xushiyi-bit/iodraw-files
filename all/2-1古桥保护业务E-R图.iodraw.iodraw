@@ -377,13 +377,15 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-25" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.59;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-9" target="RXFaZZ_4R0WEY9KHImyO-7">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-25" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="738" />
-              <mxPoint x="130" y="450" />
-              <mxPoint x="417" y="450" />
+              <mxPoint x="130" y="460" />
+              <mxPoint x="370" y="460" />
+              <mxPoint x="370" y="466" />
             </Array>
+            <mxPoint x="417" y="466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-26" value="新增或编辑" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-10">
