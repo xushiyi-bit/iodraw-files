@@ -34,6 +34,9 @@
         <mxCell id="jErheaLgglI5yPHNJDRr-6" value="接收端 .part 文件&lt;div&gt;实际长度 N = 65,536 字节&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="370" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jErheaLgglI5yPHNJDRr-9" value="正式文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
