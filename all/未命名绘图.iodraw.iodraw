@@ -250,12 +250,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCumWIY7U6BJxcz_N98_-56" value="bridge_id" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=1.01;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="KCumWIY7U6BJxcz_N98_-1" target="KCumWIY7U6BJxcz_N98_-32">
+        <mxCell id="KCumWIY7U6BJxcz_N98_-56" value="bridge_id" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=1.01;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="KCumWIY7U6BJxcz_N98_-1" target="KCumWIY7U6BJxcz_N98_-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="115" />
               <mxPoint x="20" y="491" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCumWIY7U6BJxcz_N98_-61" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KCumWIY7U6BJxcz_N98_-56">
+          <mxGeometry x="0.5583" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KCumWIY7U6BJxcz_N98_-57" value="inspector_id" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.67;exitY=1.01;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="1" source="KCumWIY7U6BJxcz_N98_-49" target="KCumWIY7U6BJxcz_N98_-6">
