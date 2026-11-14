@@ -244,7 +244,8 @@
         <mxCell id="KCumWIY7U6BJxcz_N98_-56" value="bridge_id" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=-0.013;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.191;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KCumWIY7U6BJxcz_N98_-2" target="KCumWIY7U6BJxcz_N98_-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="91" y="45" />
+              <mxPoint x="130" y="45" />
+              <mxPoint x="130" y="542" />
             </Array>
             <mxPoint x="150" y="120" as="sourcePoint" />
             <mxPoint x="90" y="480" as="targetPoint" />
