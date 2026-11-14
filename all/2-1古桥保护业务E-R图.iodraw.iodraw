@@ -500,15 +500,11 @@
         <mxCell id="tLMuchvxvVEmmMeO-nco-15" value="显示失败原因，保留表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="481.9557195571956" y="1236.614864864865" width="148.04428044280445" height="33.27364864864865" as="geometry" />
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-1" target="tLMuchvxvVEmmMeO-nco-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="tLMuchvxvVEmmMeO-nco-16" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-1" target="tLMuchvxvVEmmMeO-nco-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-2" target="tLMuchvxvVEmmMeO-nco-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="tLMuchvxvVEmmMeO-nco-17" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-2" target="tLMuchvxvVEmmMeO-nco-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-3" target="tLMuchvxvVEmmMeO-nco-4">
           <mxGeometry relative="1" as="geometry">
