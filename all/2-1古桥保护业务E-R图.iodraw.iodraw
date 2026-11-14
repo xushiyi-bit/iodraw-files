@@ -477,7 +477,7 @@
           <mxGeometry x="361.42095940959416" y="410" width="199.04" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-8" value="提交保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="422.35712177121763" y="520.0004054054054" width="77.7859778597786" height="33.27364864864865" as="geometry" />
+          <mxGeometry x="422.04712177121763" y="490.00040540540544" width="77.7859778597786" height="33.27364864864865" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-9" value="后端接收表单，SQLite 执行写入并校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="392.56642066420665" y="589.9967567567568" width="136.75276752767527" height="44.81756756756757" as="geometry" />
