@@ -313,7 +313,7 @@
           <mxGeometry x="166.63336663336662" y="721.6483516483518" width="146.013986013986" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-10" value="填写表单并提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="569.3306693306693" y="577.9120879120879" width="99.66033966033966" height="32.30769230769231" as="geometry" />
+          <mxGeometry x="610.0006693306692" y="584.002087912088" width="99.66033966033966" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-11" value="提交内容是否符合要求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="560.06" y="680" width="160" height="100" as="geometry" />
