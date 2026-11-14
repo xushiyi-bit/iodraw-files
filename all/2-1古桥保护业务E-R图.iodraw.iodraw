@@ -497,11 +497,16 @@
         <mxCell id="tLMuchvxvVEmmMeO-nco-14" value="显示成功提示，关闭表单并刷新列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="394.81" y="1033.2824324324324" width="158.08118081180814" height="44.81756756756757" as="geometry" />
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-15" target="tLMuchvxvVEmmMeO-nco-13">
+        <mxCell id="tLMuchvxvVEmmMeO-nco-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-15" target="tLMuchvxvVEmmMeO-nco-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tLMuchvxvVEmmMeO-nco-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tLMuchvxvVEmmMeO-nco-39">
+          <mxGeometry x="-0.1232" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-15" value="显示失败原因，保留表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="669.9957195571956" y="940.0048648648651" width="148.04428044280445" height="33.27364864864865" as="geometry" />
+          <mxGeometry x="659.9957195571956" y="936.7248648648651" width="148.04428044280445" height="33.27364864864865" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-16" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-1" target="tLMuchvxvVEmmMeO-nco-2">
           <mxGeometry relative="1" as="geometry" />
