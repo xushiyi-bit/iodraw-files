@@ -5,31 +5,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yNeGiUq57DyBDa0PIfjw-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="90" width="520" height="623" as="geometry" />
+          <mxGeometry x="140" y="90" width="540" height="680" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-1" value="发送端采集一帧画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="132.81927710843374" width="255.6144578313253" height="52.36192109777016" as="geometry" />
+          <mxGeometry x="137.92771084337352" width="265.44578313253015" height="57.152658662092634" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-2" value="按比例缩放并编码为 JPEG" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="106.50602409638554" y="105.7924528301887" width="306.9879518072289" height="52.36192109777016" as="geometry" />
+          <mxGeometry x="110.60240963855424" y="115.47169811320758" width="318.7951807228916" height="57.152658662092634" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-3" value="将一帧 JPEG 拆成多个分片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="104" y="210.516295025729" width="313.2530120481928" height="52.36192109777016" as="geometry" />
+          <mxGeometry x="108.00000000000001" y="229.77701543739283" width="325.30120481927713" height="57.152658662092634" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-4" value="分片 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry y="316.3087478559177" width="131.56626506024097" height="52.36192109777016" as="geometry" />
+          <mxGeometry y="345.2487135506004" width="136.6265060240964" height="57.152658662092634" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-5" value="分片 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="194.21686746987953" y="316.3087478559177" width="131.56626506024097" height="52.36192109777016" as="geometry" />
+          <mxGeometry x="201.68674698795184" y="345.2487135506004" width="136.6265060240964" height="57.152658662092634" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-6" value="分片 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="388.43373493975906" y="316.3087478559177" width="131.56626506024097" height="52.36192109777016" as="geometry" />
+          <mxGeometry x="403.37349397590367" y="345.2487135506004" width="136.6265060240964" height="57.152658662092634" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-7" value="接收端校验分片并重组 JPEG" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="121.5421686746988" y="445.61063464837054" width="276.9156626506024" height="70.52830188679246" as="geometry" />
+          <mxGeometry x="126.21686746987953" y="486.38078902229853" width="287.566265060241" height="76.98113207547172" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-8" value="解码并显示画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="152.86746987951807" y="570.6380789022298" width="215.51807228915663" height="52.36192109777016" as="geometry" />
+          <mxGeometry x="158.74698795180723" y="622.8473413379074" width="223.80722891566268" height="57.152658662092634" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="yNeGiUq57DyBDa0PIfjw-18" source="yNeGiUq57DyBDa0PIfjw-1" target="yNeGiUq57DyBDa0PIfjw-2">
           <mxGeometry relative="1" as="geometry">
