@@ -492,7 +492,7 @@
           <mxGeometry x="481.95" y="810" width="170.17" height="57.04" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-13" value="保存是否成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="419.32" y="910" width="109.06" height="60" as="geometry" />
+          <mxGeometry x="406.40999999999997" y="900" width="109.06" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-14" value="显示成功提示，关闭表单并刷新列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="394.81" y="1033.2824324324324" width="158.08118081180814" height="44.81756756756757" as="geometry" />
@@ -560,7 +560,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="303" y="750" />
-              <mxPoint x="303" y="940" />
+              <mxPoint x="303" y="930" />
             </Array>
             <mxPoint x="220" y="810" as="sourcePoint" />
             <mxPoint x="302.4445415838775" y="1095.882551975052" as="targetPoint" />
