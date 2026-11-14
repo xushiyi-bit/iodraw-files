@@ -242,7 +242,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="228" y="280" />
-              <mxPoint x="260" y="280" />
+              <mxPoint x="270" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -267,10 +267,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCumWIY7U6BJxcz_N98_-59" value="inspection_id" style="startArrow=ERzeroToOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=0.716;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KCumWIY7U6BJxcz_N98_-6" target="KCumWIY7U6BJxcz_N98_-19">
+        <mxCell id="KCumWIY7U6BJxcz_N98_-59" value="inspection_id" style="startArrow=ERzeroToOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="KCumWIY7U6BJxcz_N98_-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="371" y="350" as="targetPoint" />
+            <mxPoint x="372" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KCumWIY7U6BJxcz_N98_-60" value="defect_id" style="startArrow=ERzeroToOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="KCumWIY7U6BJxcz_N98_-19">
