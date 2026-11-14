@@ -85,12 +85,8 @@
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-3" value="文件工作线程&#xa;读取、写入文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="194" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-4" value="发起通信请求" style="curved=0;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.3;entryY=0;rounded=1;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="20" y="140" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vwaiIxEDn5HeMrcnmjZL-4" value="发起通信请求" style="startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.3;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-5" value="发起文件任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-3">
           <mxGeometry relative="1" as="geometry">
@@ -106,12 +102,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-7" value="Qt 信号：传输进度、处理结果" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=0.97;entryY=1;rounded=1;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-3" target="vwaiIxEDn5HeMrcnmjZL-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="524" y="140" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vwaiIxEDn5HeMrcnmjZL-7" value="Qt 信号：传输进度、处理结果" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=1;entryY=0.75;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-3" target="vwaiIxEDn5HeMrcnmjZL-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
