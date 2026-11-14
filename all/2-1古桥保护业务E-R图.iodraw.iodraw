@@ -286,7 +286,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="110" width="580" height="1020" as="geometry" />
+          <mxGeometry x="100" y="90" width="580" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-1" value="打开系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="RXFaZZ_4R0WEY9KHImyO-38">
           <mxGeometry x="135.004995004995" width="50.40959040959041" height="22.41758241758242" as="geometry" />
