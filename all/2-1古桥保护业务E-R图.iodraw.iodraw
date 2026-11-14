@@ -298,7 +298,7 @@
           <mxGeometry x="100" y="364.28571428571433" width="90.3896103896104" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-5" value="展示实体关系和表结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="219.36063936063934" y="364.28571428571433" width="127.47252747252746" height="32.30769230769231" as="geometry" />
+          <mxGeometry x="587.8706393606393" y="364.28571428571433" width="127.47252747252746" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-6" value="加载记录列表和表单选项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="375.8041958041958" y="364.28571428571433" width="136.74325674325672" height="32.30769230769231" as="geometry" />
