@@ -474,7 +474,7 @@
           <mxGeometry x="589.9957195571956" y="340.0037837837838" width="97.85977859778599" height="33.27364864864865" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-7" value="填写养护日期、人员、内容和费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="381.9040221402214" y="420.0001351351352" width="158.08118081180814" height="44.81756756756757" as="geometry" />
+          <mxGeometry x="380.9640221402214" y="410.0001351351352" width="158.08118081180814" height="44.81756756756757" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-8" value="提交保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="422.35712177121763" y="520.0004054054054" width="77.7859778597786" height="33.27364864864865" as="geometry" />
