@@ -468,7 +468,7 @@
           <mxGeometry x="400.94" y="260.81" width="120" height="69.19" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-5" value="选择一条病害记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="242.3268265682657" y="340.0037837837838" width="117.93357933579335" height="33.27364864864865" as="geometry" />
+          <mxGeometry x="332.65682656826567" y="419.0337837837838" width="117.93357933579335" height="33.27364864864865" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-6" value="关联病害留空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="481.9557195571956" y="419.0337837837838" width="97.85977859778599" height="33.27364864864865" as="geometry" />
@@ -515,33 +515,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-19" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-4" target="tLMuchvxvVEmmMeO-nco-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="391.6236162361624" y="394.5878378378378" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tLMuchvxvVEmmMeO-nco-19" value="是" style="startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-4" target="tLMuchvxvVEmmMeO-nco-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-20" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-4" target="tLMuchvxvVEmmMeO-nco-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530.8856088560885" y="394.5878378378378" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tLMuchvxvVEmmMeO-nco-20" value="否" style="startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-4" target="tLMuchvxvVEmmMeO-nco-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-5" target="tLMuchvxvVEmmMeO-nco-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="391.6236162361624" y="469.2837837837838" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tLMuchvxvVEmmMeO-nco-21" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-5" target="tLMuchvxvVEmmMeO-nco-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-6" target="tLMuchvxvVEmmMeO-nco-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530.8856088560885" y="469.2837837837838" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tLMuchvxvVEmmMeO-nco-22" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.75;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-6" target="tLMuchvxvVEmmMeO-nco-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-7" target="tLMuchvxvVEmmMeO-nco-8">
           <mxGeometry relative="1" as="geometry">
