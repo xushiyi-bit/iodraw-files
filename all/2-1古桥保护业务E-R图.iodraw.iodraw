@@ -331,7 +331,7 @@
           <mxGeometry x="472.56743256743255" y="934.6153846153846" width="84.01598401598402" height="95.6043956043956" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-16" value="显示成功提示并刷新列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="269.99806193806194" y="1077.6923076923076" width="136.74325674325672" height="32.30769230769231" as="geometry" />
+          <mxGeometry x="299.99806193806194" y="1020.0023076923076" width="136.74325674325672" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-1" target="RXFaZZ_4R0WEY9KHImyO-2">
           <mxGeometry relative="1" as="geometry">
