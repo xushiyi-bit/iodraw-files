@@ -465,7 +465,7 @@
           <mxGeometry x="382.2140221402214" y="193.58783783783787" width="158.08118081180814" height="33.27364864864865" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-4" value="是否关联病害？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="411.07" y="260.81" width="108.93" height="89.19" as="geometry" />
+          <mxGeometry x="400.94" y="260.81" width="120" height="89.19" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-5" value="选择一条病害记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="332.65682656826567" y="419.0337837837838" width="117.93357933579335" height="33.27364864864865" as="geometry" />
