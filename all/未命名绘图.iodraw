@@ -26,7 +26,7 @@
         <mxCell id="jErheaLgglI5yPHNJDRr-4" value="源文件 · 128KiB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jErheaLgglI5yPHNJDRr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jErheaLgglI5yPHNJDRr-6">
+        <mxCell id="jErheaLgglI5yPHNJDRr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jErheaLgglI5yPHNJDRr-6" target="jErheaLgglI5yPHNJDRr-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="520" as="targetPoint" />
           </mxGeometry>
@@ -35,7 +35,7 @@
           <mxGeometry x="245" y="370" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jErheaLgglI5yPHNJDRr-9" value="正式文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="520" width="100" height="50" as="geometry" />
+          <mxGeometry x="260" y="540" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
