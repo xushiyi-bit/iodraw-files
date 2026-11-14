@@ -316,7 +316,7 @@
           <mxGeometry x="569.3306693306693" y="577.9120879120879" width="99.66033966033966" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-11" value="提交内容是否符合要求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="558.9" y="680" width="121.1" height="126.7" as="geometry" />
+          <mxGeometry x="520" y="680" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-12" value="执行数据库操作并检查约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="441.85814185814183" y="854.8351648351648" width="146.013986013986" height="32.30769230769231" as="geometry" />
