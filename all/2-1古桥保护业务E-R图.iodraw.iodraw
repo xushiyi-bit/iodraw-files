@@ -330,10 +330,11 @@
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-15" value="操作是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="479.11" y="930" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-16" target="RXFaZZ_4R0WEY9KHImyO-7">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-16" target="RXFaZZ_4R0WEY9KHImyO-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1000" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="300" y="840" />
+              <mxPoint x="334" y="840" />
               <mxPoint x="422" y="840" />
             </Array>
           </mxGeometry>
