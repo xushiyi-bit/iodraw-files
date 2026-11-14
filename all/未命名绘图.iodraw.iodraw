@@ -38,7 +38,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNeGiUq57DyBDa0PIfjw-11" value="" style="startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="yNeGiUq57DyBDa0PIfjw-3" target="yNeGiUq57DyBDa0PIfjw-4">
+        <mxCell id="yNeGiUq57DyBDa0PIfjw-11" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="yNeGiUq57DyBDa0PIfjw-3" target="yNeGiUq57DyBDa0PIfjw-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yNeGiUq57DyBDa0PIfjw-3" target="yNeGiUq57DyBDa0PIfjw-5">
