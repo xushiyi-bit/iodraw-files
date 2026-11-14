@@ -307,10 +307,10 @@
           <mxGeometry x="400" y="428.9" width="90" height="51.1" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-8" value="输入关键词或选择筛选条件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="166.63336663336662" y="577.9120879120879" width="146.013986013986" height="32.30769230769231" as="geometry" />
+          <mxGeometry x="229.79336663336662" y="577.9120879120879" width="146.013986013986" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-9" value="显示匹配记录或空结果提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="166.63336663336662" y="721.6483516483518" width="146.013986013986" height="32.30769230769231" as="geometry" />
+          <mxGeometry x="229.79336663336662" y="721.6483516483518" width="146.013986013986" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-10" value="填写表单并提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="610.0006693306692" y="584.002087912088" width="99.66033966033966" height="32.30769230769231" as="geometry" />
