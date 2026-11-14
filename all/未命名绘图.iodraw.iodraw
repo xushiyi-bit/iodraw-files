@@ -226,13 +226,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KCumWIY7U6BJxcz_N98_-52" value="staff_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="KCumWIY7U6BJxcz_N98_-50">
-          <mxGeometry x="60" width="34" height="20" as="geometry">
-            <mxRectangle width="34" height="20" as="alternateBounds" />
+          <mxGeometry x="60" width="48" height="20" as="geometry">
+            <mxRectangle width="48" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KCumWIY7U6BJxcz_N98_-53" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="KCumWIY7U6BJxcz_N98_-50">
-          <mxGeometry x="94" width="34" height="20" as="geometry">
-            <mxRectangle width="34" height="20" as="alternateBounds" />
+          <mxGeometry x="108" width="20" height="20" as="geometry">
+            <mxRectangle width="20" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KCumWIY7U6BJxcz_N98_-54" value="bridge_id" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.93;exitY=1.01;entryX=0.3;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="KCumWIY7U6BJxcz_N98_-1" target="KCumWIY7U6BJxcz_N98_-6">
