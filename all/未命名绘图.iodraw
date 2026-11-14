@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jErheaLgglI5yPHNJDRr-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="160" width="550" height="480" as="geometry" />
+          <mxGeometry x="139" y="190" width="550" height="480" as="geometry" />
         </mxCell>
         <mxCell id="jErheaLgglI5yPHNJDRr-1" value="第1块 · 已接收&lt;div&gt;偏移 0-65,535&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jErheaLgglI5yPHNJDRr-12">
           <mxGeometry x="43.421052631578945" y="48" width="173.68421052631578" height="72" as="geometry" />
