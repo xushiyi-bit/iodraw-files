@@ -486,7 +486,7 @@
           <mxGeometry x="381.89952029520293" y="689.9970270270271" width="158.08118081180814" height="44.81756756756757" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-11" value="是否填写了关联病害？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="379.98" y="780" width="160" height="80" as="geometry" />
+          <mxGeometry x="370" y="780" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-12" value="检查病害是否存在、是否同桥、养护日期是否早于发现日期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="476.9405535055351" y="930.0005405405407" width="158.08118081180814" height="57.04054054054055" as="geometry" />
