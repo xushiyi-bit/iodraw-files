@@ -247,7 +247,7 @@
               <mxPoint x="72" y="45" />
             </Array>
             <mxPoint x="150" y="120" as="sourcePoint" />
-            <mxPoint x="120" y="490" as="targetPoint" />
+            <mxPoint x="70" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KCumWIY7U6BJxcz_N98_-61" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KCumWIY7U6BJxcz_N98_-56">
