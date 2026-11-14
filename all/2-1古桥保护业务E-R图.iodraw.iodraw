@@ -331,7 +331,14 @@
           <mxGeometry x="479.11" y="930" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-16" target="RXFaZZ_4R0WEY9KHImyO-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1036" />
+              <mxPoint x="280" y="840" />
+              <mxPoint x="370" y="840" />
+              <mxPoint x="370" y="467" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-16" value="显示成功提示并刷新列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="299.99806193806194" y="1020.0023076923076" width="136.74325674325672" height="32.30769230769231" as="geometry" />
