@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="jErheaLgglI5yPHNJDRr-11" value="收齐后校验 SHA-256，通过后改名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jErheaLgglI5yPHNJDRr-8">
           <mxGeometry x="0.0833" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jErheaLgglI5yPHNJDRr-6" value="接收端 .part 文件&lt;div&gt;实际长度 N = 65,536 字节&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
