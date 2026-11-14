@@ -328,7 +328,7 @@
           <mxGeometry x="459.24" y="570" width="90.76" height="66.59" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-15" value="操作是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="472.56743256743255" y="934.6153846153846" width="84.01598401598402" height="95.6043956043956" as="geometry" />
+          <mxGeometry x="472.57" y="934.62" width="84.02" height="85.38" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-16" value="显示成功提示并刷新列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="299.99806193806194" y="1020.0023076923076" width="136.74325674325672" height="32.30769230769231" as="geometry" />
@@ -408,8 +408,8 @@
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-30" value="删除" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.81;entryX=1;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-14">
           <mxGeometry x="0.2616" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="465" y="500" />
-              <mxPoint x="515" y="500" />
+              <mxPoint x="464" y="500" />
+              <mxPoint x="527" y="500" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
