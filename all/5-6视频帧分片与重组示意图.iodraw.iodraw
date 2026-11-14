@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-5" value="发起文件任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.31;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-3">
-          <mxGeometry x="0.219" y="14" relative="1" as="geometry">
+          <mxGeometry x="0.2263" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="506.80000000000007" y="325" />
             </Array>
@@ -99,10 +99,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-6" value="Qt 信号：收到消息、连接状态变化" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.34;entryY=1;rounded=0;fontSize=16;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-2" target="vwaiIxEDn5HeMrcnmjZL-1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2753" y="11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="311.92" y="325" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-7" value="Qt 信号：传输进度、处理结果" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=1;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-3" target="vwaiIxEDn5HeMrcnmjZL-1">
