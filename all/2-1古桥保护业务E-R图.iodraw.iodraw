@@ -304,7 +304,7 @@
           <mxGeometry x="375.8041958041958" y="364.28571428571433" width="136.74325674325672" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-7" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="411.7282717282717" y="428.90109890109886" width="65.47452547452546" height="74.50549450549451" as="geometry" />
+          <mxGeometry x="400" y="428.9" width="77.2" height="51.1" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-8" value="输入关键词或选择筛选条件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="166.63336663336662" y="577.9120879120879" width="146.013986013986" height="32.30769230769231" as="geometry" />
