@@ -581,10 +581,7 @@
         <mxCell id="tLMuchvxvVEmmMeO-nco-32" value="" style="startArrow=none;endArrow=block;entryX=1;entryY=0.75;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-15" target="tLMuchvxvVEmmMeO-nco-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="937" />
-              <mxPoint x="720" y="650" />
-              <mxPoint x="707" y="650" />
-              <mxPoint x="707" y="440" />
+              <mxPoint x="697" y="440" />
             </Array>
             <mxPoint x="720" y="910" as="sourcePoint" />
           </mxGeometry>
