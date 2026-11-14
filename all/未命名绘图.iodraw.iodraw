@@ -5,31 +5,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yNeGiUq57DyBDa0PIfjw-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="20" width="415" height="583" as="geometry" />
+          <mxGeometry x="160" y="90" width="520" height="623" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-1" value="发送端采集一帧画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="106" width="204" height="49" as="geometry" />
+          <mxGeometry x="132.81927710843374" width="255.6144578313253" height="52.36192109777016" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-2" value="按比例缩放并编码为 JPEG" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="85" y="99" width="245" height="49" as="geometry" />
+          <mxGeometry x="106.50602409638554" y="105.7924528301887" width="306.9879518072289" height="52.36192109777016" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-3" value="将一帧 JPEG 拆成多个分片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="83" y="197" width="250" height="49" as="geometry" />
+          <mxGeometry x="104" y="210.516295025729" width="313.2530120481928" height="52.36192109777016" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-4" value="分片 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry y="296" width="105" height="49" as="geometry" />
+          <mxGeometry y="316.3087478559177" width="131.56626506024097" height="52.36192109777016" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-5" value="分片 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="155" y="296" width="105" height="49" as="geometry" />
+          <mxGeometry x="194.21686746987953" y="316.3087478559177" width="131.56626506024097" height="52.36192109777016" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-6" value="分片 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="310" y="296" width="105" height="49" as="geometry" />
+          <mxGeometry x="388.43373493975906" y="316.3087478559177" width="131.56626506024097" height="52.36192109777016" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-7" value="接收端校验分片并重组 JPEG" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="97" y="417" width="221" height="66" as="geometry" />
+          <mxGeometry x="121.5421686746988" y="445.61063464837054" width="276.9156626506024" height="70.52830188679246" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-8" value="解码并显示画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yNeGiUq57DyBDa0PIfjw-18">
-          <mxGeometry x="122" y="534" width="172" height="49" as="geometry" />
+          <mxGeometry x="152.86746987951807" y="570.6380789022298" width="215.51807228915663" height="52.36192109777016" as="geometry" />
         </mxCell>
         <mxCell id="yNeGiUq57DyBDa0PIfjw-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="yNeGiUq57DyBDa0PIfjw-18" source="yNeGiUq57DyBDa0PIfjw-1" target="yNeGiUq57DyBDa0PIfjw-2">
           <mxGeometry relative="1" as="geometry">
