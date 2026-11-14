@@ -498,7 +498,7 @@
           <mxGeometry x="394.81" y="1033.2824324324324" width="158.08118081180814" height="44.81756756756757" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-15" value="显示失败原因，保留表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="669.9957195571956" y="923.3631756756756" width="148.04428044280445" height="33.27364864864865" as="geometry" />
+          <mxGeometry x="669.9957195571956" y="940.0048648648651" width="148.04428044280445" height="33.27364864864865" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-16" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-1" target="tLMuchvxvVEmmMeO-nco-2">
           <mxGeometry relative="1" as="geometry" />
