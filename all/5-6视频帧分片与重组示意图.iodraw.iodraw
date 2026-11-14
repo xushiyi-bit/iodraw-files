@@ -77,16 +77,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="139" y="180" width="561" height="270" as="geometry" />
+          <mxGeometry x="120" y="160" width="580" height="290" as="geometry" />
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-1" value="界面线程&#xa;响应操作、更新界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vwaiIxEDn5HeMrcnmjZL-8">
-          <mxGeometry x="161.568" width="228.888" height="74.25" as="geometry" />
+          <mxGeometry x="167.04000000000002" width="236.64000000000001" height="79.75000000000001" as="geometry" />
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-2" value="网络线程&#xa;收发网络消息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vwaiIxEDn5HeMrcnmjZL-8">
-          <mxGeometry y="195.75" width="175.03200000000004" height="74.25" as="geometry" />
+          <mxGeometry y="210.25000000000003" width="180.96000000000006" height="79.75000000000001" as="geometry" />
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-3" value="文件工作线程&#xa;读取、写入文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vwaiIxEDn5HeMrcnmjZL-8">
-          <mxGeometry x="368.016" y="195.75" width="192.984" height="74.25" as="geometry" />
+          <mxGeometry x="380.48" y="210.25000000000003" width="199.52" height="79.75000000000001" as="geometry" />
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-4" value="发起通信请求" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.3;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="vwaiIxEDn5HeMrcnmjZL-8" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-2">
           <mxGeometry relative="1" as="geometry" />
@@ -94,14 +94,14 @@
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-5" value="发起文件任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="vwaiIxEDn5HeMrcnmjZL-8" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370.26000000000005" y="135" />
+              <mxPoint x="382.80000000000007" y="145.00000000000003" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-6" value="Qt 信号：收到消息、连接状态变化" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.34;entryY=1;rounded=0;" edge="1" parent="vwaiIxEDn5HeMrcnmjZL-8" source="vwaiIxEDn5HeMrcnmjZL-2" target="vwaiIxEDn5HeMrcnmjZL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="181.764" y="135" />
+              <mxPoint x="187.92000000000002" y="145.00000000000003" />
             </Array>
           </mxGeometry>
         </mxCell>
