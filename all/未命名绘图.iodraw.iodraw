@@ -422,7 +422,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M1IcEiJOBlOmJfYctrEP-32" value="MAINTENANCE_RECORDS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="541" width="181" height="109" as="geometry" />
+          <mxGeometry x="143.5" y="541" width="181" height="109" as="geometry" />
         </mxCell>
         <mxCell id="M1IcEiJOBlOmJfYctrEP-33" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="M1IcEiJOBlOmJfYctrEP-32">
           <mxGeometry y="25" width="181" height="21" as="geometry" />
