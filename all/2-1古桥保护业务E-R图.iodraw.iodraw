@@ -465,7 +465,7 @@
           <mxGeometry x="382.2140221402214" y="193.58783783783787" width="158.08118081180814" height="33.27364864864865" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-4" value="是否关联病害？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400.94" y="260.81" width="120" height="89.19" as="geometry" />
+          <mxGeometry x="400.94" y="260.81" width="120" height="69.19" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-5" value="选择一条病害记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="332.65682656826567" y="419.0337837837838" width="117.93357933579335" height="33.27364864864865" as="geometry" />
@@ -486,7 +486,7 @@
           <mxGeometry x="332.02952029520293" y="711.0270270270271" width="158.08118081180814" height="44.81756756756757" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-11" value="是否填写了关联病害？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="345.2029520295203" y="789.7972972972973" width="131.1070110701107" height="141.92229729729732" as="geometry" />
+          <mxGeometry x="345.2" y="789.8" width="131.11" height="90.2" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-12" value="检查病害是否存在、是否同桥、养护日期是否早于发现日期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="385.35055350553506" y="981.2905405405406" width="158.08118081180814" height="57.04054054054055" as="geometry" />
