@@ -489,7 +489,7 @@
           <mxGeometry x="370" y="740" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-12" value="检查病害是否存在、是否同桥、&#xa;养护日期是否早于发现日期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="499.83" y="820" width="170.17" height="57.04" as="geometry" />
+          <mxGeometry x="481.95" y="830" width="170.17" height="57.04" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-13" value="保存是否成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="419.32" y="920" width="109.06" height="60" as="geometry" />
