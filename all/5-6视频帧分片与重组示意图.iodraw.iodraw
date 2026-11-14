@@ -86,7 +86,9 @@
           <mxGeometry x="504.48" y="390.25" width="199.52" height="79.75000000000001" as="geometry" />
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-4" value="发起通信请求" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.3;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.1506" y="-28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vwaiIxEDn5HeMrcnmjZL-5" value="发起文件任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.31;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-3">
           <mxGeometry relative="1" as="geometry">
