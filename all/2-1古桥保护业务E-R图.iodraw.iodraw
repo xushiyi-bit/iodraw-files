@@ -292,7 +292,7 @@
           <mxGeometry x="215.30469530469531" y="145.3846153846154" width="90.3896103896104" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-3" value="从侧栏选择页面" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="213.56643356643355" y="210" width="93.28671328671328" height="106.15384615384616" as="geometry" />
+          <mxGeometry x="366.99643356643355" y="160" width="93.28671328671328" height="106.15384615384616" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-4" value="显示统计结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="364.28571428571433" width="90.3896103896104" height="32.30769230769231" as="geometry" />
@@ -343,26 +343,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-19" value="数据总览" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=-0.01;rounded=1;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-3" target="RXFaZZ_4R0WEY9KHImyO-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="145.1948051948052" y="339.8901098901099" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-19" value="数据总览" style="startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-3" target="RXFaZZ_4R0WEY9KHImyO-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-20" value="数据库设计" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-3" target="RXFaZZ_4R0WEY9KHImyO-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="283.09690309690313" y="339.8901098901099" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-20" value="数据库设计" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-3" target="RXFaZZ_4R0WEY9KHImyO-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-21" value="业务管理" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=-0.01;rounded=1;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-3" target="RXFaZZ_4R0WEY9KHImyO-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="444.1758241758242" y="339.8901098901099" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-21" value="业务管理" style="startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-3" target="RXFaZZ_4R0WEY9KHImyO-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-6" target="RXFaZZ_4R0WEY9KHImyO-7">
           <mxGeometry relative="1" as="geometry">
