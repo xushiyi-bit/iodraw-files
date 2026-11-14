@@ -590,13 +590,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=0.01;entryX=0.88;entryY=1;rounded=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-15" target="tLMuchvxvVEmmMeO-nco-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="565.3874538745388" y="1206.0574324324325" />
-              <mxPoint x="565.3874538745388" y="548.0540540540542" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tLMuchvxvVEmmMeO-nco-32" value="" style="startArrow=none;endArrow=block;exitX=0.52;exitY=0.01;entryX=0.88;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-15" target="tLMuchvxvVEmmMeO-nco-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
