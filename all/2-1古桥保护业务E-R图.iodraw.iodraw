@@ -555,19 +555,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-28" value="否" style="startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.09;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-11" target="tLMuchvxvVEmmMeO-nco-13">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.1297" y="-39" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="388" y="829" />
-              <mxPoint x="388" y="830" />
+              <mxPoint x="426" y="830" />
               <mxPoint x="429" y="830" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-29" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-12" target="tLMuchvxvVEmmMeO-nco-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="556" y="1010" />
-              <mxPoint x="474" y="1010" />
+              <mxPoint x="556" y="1030" />
+              <mxPoint x="474" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
