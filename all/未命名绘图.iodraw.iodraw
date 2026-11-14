@@ -244,10 +244,9 @@
         <mxCell id="KCumWIY7U6BJxcz_N98_-56" value="bridge_id" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="45" />
-              <mxPoint x="150" y="45" />
+              <mxPoint x="150" y="10" />
             </Array>
-            <mxPoint x="120" y="10" as="sourcePoint" />
+            <mxPoint x="120" y="-20" as="sourcePoint" />
             <mxPoint x="150" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
