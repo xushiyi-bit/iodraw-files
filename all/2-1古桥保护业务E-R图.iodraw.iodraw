@@ -333,11 +333,8 @@
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-16" target="RXFaZZ_4R0WEY9KHImyO-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="1036" />
-              <mxPoint x="280" y="840" />
-              <mxPoint x="370" y="840" />
-              <mxPoint x="370" y="580" />
-              <mxPoint x="422" y="580" />
+              <mxPoint x="300" y="840" />
+              <mxPoint x="422" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
