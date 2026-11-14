@@ -287,24 +287,24 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M1IcEiJOBlOmJfYctrEP-1" value="BRIDGES" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="158" y="20" width="124" height="45" as="geometry" />
+          <mxGeometry x="158" y="20" width="152" height="45" as="geometry" />
         </mxCell>
         <mxCell id="M1IcEiJOBlOmJfYctrEP-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="M1IcEiJOBlOmJfYctrEP-1">
-          <mxGeometry y="25" width="124" height="20" as="geometry" />
+          <mxGeometry y="25" width="152" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M1IcEiJOBlOmJfYctrEP-3" value="INTEGER" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="M1IcEiJOBlOmJfYctrEP-2">
-          <mxGeometry width="42" height="20" as="geometry">
-            <mxRectangle width="42" height="20" as="alternateBounds" />
+          <mxGeometry width="62" height="20" as="geometry">
+            <mxRectangle width="62" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M1IcEiJOBlOmJfYctrEP-4" value="bridge_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="M1IcEiJOBlOmJfYctrEP-2">
-          <mxGeometry x="42" width="60" height="20" as="geometry">
-            <mxRectangle width="60" height="20" as="alternateBounds" />
+          <mxGeometry x="62" width="40" height="20" as="geometry">
+            <mxRectangle width="40" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M1IcEiJOBlOmJfYctrEP-5" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="M1IcEiJOBlOmJfYctrEP-2">
-          <mxGeometry x="102" width="22" height="20" as="geometry">
-            <mxRectangle width="22" height="20" as="alternateBounds" />
+          <mxGeometry x="102" width="50" height="20" as="geometry">
+            <mxRectangle width="50" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M1IcEiJOBlOmJfYctrEP-6" value="INSPECTIONS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
