@@ -465,8 +465,9 @@
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-37" value="" style="startArrow=none;endArrow=block;exitX=0.04;exitY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-13" target="RXFaZZ_4R0WEY9KHImyO-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="1078" />
-              <mxPoint x="435" y="485" />
+              <mxPoint x="280" y="1078" />
+              <mxPoint x="280" y="560" />
+              <mxPoint x="428" y="560" />
             </Array>
             <mxPoint x="160" y="1078" as="targetPoint" />
           </mxGeometry>
