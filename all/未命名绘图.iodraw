@@ -1,18 +1,21 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8mW2z4J2WbEoydp3jfUp">
-    <mxGraphModel dx="665" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jErheaLgglI5yPHNJDRr-1" value="第1块 · 已接收&lt;div&gt;偏移 0-65,535&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="jErheaLgglI5yPHNJDRr-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="160" width="440" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="jErheaLgglI5yPHNJDRr-2" value="第2块 · 待传输&lt;div&gt;偏移 65,536-131,071&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="jErheaLgglI5yPHNJDRr-1" value="第1块 · 已接收&lt;div&gt;偏移 0-65,535&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jErheaLgglI5yPHNJDRr-12">
+          <mxGeometry x="34.73684210526316" y="46" width="138.94736842105263" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="jErheaLgglI5yPHNJDRr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jErheaLgglI5yPHNJDRr-3" target="jErheaLgglI5yPHNJDRr-6">
+        <mxCell id="jErheaLgglI5yPHNJDRr-2" value="第2块 · 待传输&lt;div&gt;偏移 65,536-131,071&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jErheaLgglI5yPHNJDRr-12">
+          <mxGeometry x="266.3157894736842" y="46" width="138.94736842105263" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="jErheaLgglI5yPHNJDRr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jErheaLgglI5yPHNJDRr-12" source="jErheaLgglI5yPHNJDRr-3" target="jErheaLgglI5yPHNJDRr-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="380" as="targetPoint" />
+            <mxPoint x="220" y="252.99999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jErheaLgglI5yPHNJDRr-7" value="从偏移 N 开始发送并追加" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jErheaLgglI5yPHNJDRr-5">
@@ -20,15 +23,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jErheaLgglI5yPHNJDRr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="160" width="380" height="120" as="geometry" />
+        <mxCell id="jErheaLgglI5yPHNJDRr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="jErheaLgglI5yPHNJDRr-12">
+          <mxGeometry width="440" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="jErheaLgglI5yPHNJDRr-4" value="源文件 · 128KiB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="160" width="100" height="30" as="geometry" />
+        <mxCell id="jErheaLgglI5yPHNJDRr-4" value="源文件 · 128KiB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jErheaLgglI5yPHNJDRr-12">
+          <mxGeometry x="162.10526315789474" width="115.78947368421053" height="34.5" as="geometry" />
         </mxCell>
-        <mxCell id="jErheaLgglI5yPHNJDRr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jErheaLgglI5yPHNJDRr-6" target="jErheaLgglI5yPHNJDRr-9">
+        <mxCell id="jErheaLgglI5yPHNJDRr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jErheaLgglI5yPHNJDRr-12" source="jErheaLgglI5yPHNJDRr-6" target="jErheaLgglI5yPHNJDRr-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="520" as="targetPoint" />
+            <mxPoint x="208.42105263157896" y="413.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jErheaLgglI5yPHNJDRr-11" value="收齐后校验 SHA-256，通过后改名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jErheaLgglI5yPHNJDRr-8">
@@ -36,11 +39,11 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jErheaLgglI5yPHNJDRr-6" value="接收端 .part 文件&lt;div&gt;实际长度 N = 65,536 字节&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="370" width="150" height="60" as="geometry" />
+        <mxCell id="jErheaLgglI5yPHNJDRr-6" value="接收端 .part 文件&lt;div&gt;实际长度 N = 65,536 字节&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jErheaLgglI5yPHNJDRr-12">
+          <mxGeometry x="133.1578947368421" y="241.49999999999997" width="173.6842105263158" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="jErheaLgglI5yPHNJDRr-9" value="正式文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="510" width="100" height="50" as="geometry" />
+        <mxCell id="jErheaLgglI5yPHNJDRr-9" value="正式文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jErheaLgglI5yPHNJDRr-12">
+          <mxGeometry x="162.10526315789474" y="402.49999999999994" width="115.78947368421053" height="57.49999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
