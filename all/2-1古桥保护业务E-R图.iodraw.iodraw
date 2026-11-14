@@ -357,108 +357,50 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-23" value="查询" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="183.71628371628373" y="740.0000000000001" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-23" value="查询" style="startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-8" target="RXFaZZ_4R0WEY9KHImyO-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-24" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-8" target="RXFaZZ_4R0WEY9KHImyO-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=0.01;entryX=0;entryY=0.59;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-9" target="RXFaZZ_4R0WEY9KHImyO-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="74.34565434565434" y="894.7511312217194" />
-              <mxPoint x="74.34565434565434" y="740.0000000000001" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-25" value="" style="startArrow=none;endArrow=block;exitX=0.38;exitY=0.01;entryX=0;entryY=0.59;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-9" target="RXFaZZ_4R0WEY9KHImyO-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-26" value="新增或编辑" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="628.6713286713286" y="740.0000000000001" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-26" value="新增或编辑" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-10" target="RXFaZZ_4R0WEY9KHImyO-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-27" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-10" target="RXFaZZ_4R0WEY9KHImyO-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-28" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.66;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-11" target="RXFaZZ_4R0WEY9KHImyO-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="574.3256743256744" y="1114.6606334841629" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-28" value="是" style="startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.66;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-11" target="RXFaZZ_4R0WEY9KHImyO-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=1;entryX=0.96;entryY=0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-11" target="RXFaZZ_4R0WEY9KHImyO-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="638.8611388611389" y="1114.6606334841629" />
-              <mxPoint x="638.8611388611389" y="1390.769230769231" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-29" value="否" style="startArrow=none;endArrow=block;exitX=0.55;exitY=1;entryX=0.96;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-11" target="RXFaZZ_4R0WEY9KHImyO-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-30" value="删除" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.81;entryX=0.8;entryY=0;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="526.0939060939061" y="740.0000000000001" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-30" value="删除" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.81;entryX=0.8;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-31" value="确认" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.45;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-14" target="RXFaZZ_4R0WEY9KHImyO-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="485.3346653346654" y="1114.6606334841629" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-31" value="确认" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.45;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-14" target="RXFaZZ_4R0WEY9KHImyO-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-32" value="取消" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=0;entryX=0.82;entryY=1;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-14" target="RXFaZZ_4R0WEY9KHImyO-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="464.27572427572426" y="740.0000000000001" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-32" value="取消" style="startArrow=none;endArrow=block;exitX=0.35;exitY=0;entryX=0.82;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-14" target="RXFaZZ_4R0WEY9KHImyO-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-12" target="RXFaZZ_4R0WEY9KHImyO-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-33" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-12" target="RXFaZZ_4R0WEY9KHImyO-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-34" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.66;entryY=0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-15" target="RXFaZZ_4R0WEY9KHImyO-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="376.64335664335664" y="1390.769230769231" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-34" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.66;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-15" target="RXFaZZ_4R0WEY9KHImyO-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.46;entryY=0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-15" target="RXFaZZ_4R0WEY9KHImyO-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="506.3936063936064" y="1390.769230769231" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-35" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.46;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-15" target="RXFaZZ_4R0WEY9KHImyO-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=0.01;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-16" target="RXFaZZ_4R0WEY9KHImyO-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="293.0869130869131" y="1390.769230769231" />
-              <mxPoint x="293.0869130869131" y="740.0000000000001" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-36" value="" style="startArrow=none;endArrow=block;exitX=0.45;exitY=0.01;entryX=0;entryY=0.74;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-16" target="RXFaZZ_4R0WEY9KHImyO-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=0.01;entryX=0.28;entryY=1;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-13" target="RXFaZZ_4R0WEY9KHImyO-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="397.022977022977" y="1390.769230769231" />
-              <mxPoint x="397.022977022977" y="740.0000000000001" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-37" value="" style="startArrow=none;endArrow=block;exitX=0.04;exitY=0.01;entryX=0.28;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-13" target="RXFaZZ_4R0WEY9KHImyO-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
