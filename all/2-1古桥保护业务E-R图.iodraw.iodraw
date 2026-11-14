@@ -518,9 +518,7 @@
         <mxCell id="tLMuchvxvVEmmMeO-nco-19" value="是" style="startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-4" target="tLMuchvxvVEmmMeO-nco-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="392" y="313" />
-              <mxPoint x="392" y="310" />
-              <mxPoint x="273" y="310" />
+              <mxPoint x="273" y="313" />
             </Array>
           </mxGeometry>
         </mxCell>
