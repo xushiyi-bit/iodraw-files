@@ -76,36 +76,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-8" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="124" y="180" width="580" height="290" as="geometry" />
+        <mxCell id="vwaiIxEDn5HeMrcnmjZL-1" value="界面线程&#xa;响应操作、更新界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="291.04" y="180" width="236.64000000000001" height="79.75000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-1" value="界面线程&#xa;响应操作、更新界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vwaiIxEDn5HeMrcnmjZL-8">
-          <mxGeometry x="167.04000000000002" width="236.64000000000001" height="79.75000000000001" as="geometry" />
+        <mxCell id="vwaiIxEDn5HeMrcnmjZL-2" value="网络线程&#xa;收发网络消息" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="124" y="390.25" width="180.96000000000006" height="79.75000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-2" value="网络线程&#xa;收发网络消息" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vwaiIxEDn5HeMrcnmjZL-8">
-          <mxGeometry y="210.25000000000003" width="180.96000000000006" height="79.75000000000001" as="geometry" />
+        <mxCell id="vwaiIxEDn5HeMrcnmjZL-3" value="文件工作线程&#xa;读取、写入文件" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="504.48" y="390.25" width="199.52" height="79.75000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-3" value="文件工作线程&#xa;读取、写入文件" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vwaiIxEDn5HeMrcnmjZL-8">
-          <mxGeometry x="380.48" y="210.25000000000003" width="199.52" height="79.75000000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-4" value="发起通信请求" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.3;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="vwaiIxEDn5HeMrcnmjZL-8" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-2">
+        <mxCell id="vwaiIxEDn5HeMrcnmjZL-4" value="发起通信请求" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.3;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-5" value="发起文件任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.31;entryY=0;rounded=0;fontSize=16;" edge="1" parent="vwaiIxEDn5HeMrcnmjZL-8" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-3">
+        <mxCell id="vwaiIxEDn5HeMrcnmjZL-5" value="发起文件任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.31;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-1" target="vwaiIxEDn5HeMrcnmjZL-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="382.80000000000007" y="145.00000000000003" />
+              <mxPoint x="506.80000000000007" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-6" value="Qt 信号：收到消息、连接状态变化" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.34;entryY=1;rounded=0;fontSize=16;" edge="1" parent="vwaiIxEDn5HeMrcnmjZL-8" source="vwaiIxEDn5HeMrcnmjZL-2" target="vwaiIxEDn5HeMrcnmjZL-1">
+        <mxCell id="vwaiIxEDn5HeMrcnmjZL-6" value="Qt 信号：收到消息、连接状态变化" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.34;entryY=1;rounded=0;fontSize=16;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-2" target="vwaiIxEDn5HeMrcnmjZL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="187.92000000000002" y="145.00000000000003" />
+              <mxPoint x="311.92" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vwaiIxEDn5HeMrcnmjZL-7" value="Qt 信号：传输进度、处理结果" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=1;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="vwaiIxEDn5HeMrcnmjZL-8" source="vwaiIxEDn5HeMrcnmjZL-3" target="vwaiIxEDn5HeMrcnmjZL-1">
+        <mxCell id="vwaiIxEDn5HeMrcnmjZL-7" value="Qt 信号：传输进度、处理结果" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=1;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="vwaiIxEDn5HeMrcnmjZL-3" target="vwaiIxEDn5HeMrcnmjZL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
