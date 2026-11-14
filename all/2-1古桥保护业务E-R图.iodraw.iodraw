@@ -515,13 +515,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLMuchvxvVEmmMeO-nco-19" value="是" style="startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-4" target="tLMuchvxvVEmmMeO-nco-5">
+        <mxCell id="tLMuchvxvVEmmMeO-nco-19" value="是" style="startArrow=none;endArrow=block;exitX=0.02;exitY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="432" y="240" />
-              <mxPoint x="273" y="240" />
-              <mxPoint x="273" y="340" />
+              <mxPoint x="283" y="240" />
             </Array>
+            <mxPoint x="283" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-20" value="否" style="startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-4" target="tLMuchvxvVEmmMeO-nco-6">
