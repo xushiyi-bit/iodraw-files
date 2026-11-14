@@ -462,10 +462,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-37" value="" style="startArrow=none;endArrow=block;exitX=0.04;exitY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-13" target="RXFaZZ_4R0WEY9KHImyO-7">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-37" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.75;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-13" target="RXFaZZ_4R0WEY9KHImyO-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="1078" />
+              <mxPoint x="478" y="1100" />
+              <mxPoint x="270" y="1100" />
               <mxPoint x="270" y="830" />
               <mxPoint x="400" y="830" />
               <mxPoint x="400" y="570" />
