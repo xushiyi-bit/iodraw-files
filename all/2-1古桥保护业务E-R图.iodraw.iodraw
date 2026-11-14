@@ -480,13 +480,13 @@
           <mxGeometry x="422.04712177121763" y="490.00040540540544" width="77.7859778597786" height="33.27364864864865" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-9" value="后端接收表单，SQLite 执行写入并校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="392.56642066420665" y="589.9967567567568" width="136.75276752767527" height="44.81756756756757" as="geometry" />
+          <mxGeometry x="391.62642066420665" y="561.9967567567568" width="136.75276752767527" height="44.81756756756757" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-10" value="检查古桥、人员、费用等基本约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="381.89952029520293" y="689.9970270270271" width="158.08118081180814" height="44.81756756756757" as="geometry" />
+          <mxGeometry x="381.89952029520293" y="649.9970270270271" width="158.08118081180814" height="44.81756756756757" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-11" value="是否填写了关联病害？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="780" width="180" height="60" as="geometry" />
+          <mxGeometry x="370" y="740" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-12" value="检查病害是否存在、是否同桥、养护日期是否早于发现日期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="490.0005535055351" y="930.0005405405407" width="158.08118081180814" height="57.04054054054055" as="geometry" />
@@ -545,7 +545,7 @@
         <mxCell id="tLMuchvxvVEmmMeO-nco-27" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="tLMuchvxvVEmmMeO-nco-11" target="tLMuchvxvVEmmMeO-nco-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="569" y="810" />
+              <mxPoint x="569" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
