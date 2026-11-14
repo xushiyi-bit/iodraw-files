@@ -289,13 +289,13 @@
           <mxGeometry x="418.974995004995" y="30" width="50.40959040959041" height="22.41758241758242" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-2" value="显示数据总览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="379.28469530469533" y="90.00461538461539" width="90.3896103896104" height="32.30769230769231" as="geometry" />
+          <mxGeometry x="398.9846953046953" y="130.0046153846154" width="90.3896103896104" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-3" value="从侧栏选择页面" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="384.18" y="220" width="120" height="66.15" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-4" value="显示统计结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="364.28571428571433" width="90.3896103896104" height="32.30769230769231" as="geometry" />
+          <mxGeometry x="209.61" y="364.28571428571433" width="90.3896103896104" height="32.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-5" value="展示实体关系和表结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="587.8706393606393" y="364.28571428571433" width="127.47252747252746" height="32.30769230769231" as="geometry" />
