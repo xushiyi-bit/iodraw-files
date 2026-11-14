@@ -462,7 +462,7 @@
           <mxGeometry x="332.5788415682175" y="271.5880220732584" width="89.37184326779644" height="31.935772504274855" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-3" value="表单列出该桥的可关联病害" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305.07981287043395" y="332.6185835873066" width="144.36990066336347" height="31.935772504274855" as="geometry" />
+          <mxGeometry x="297.2647632021157" y="332.62" width="160" height="31.94" as="geometry" />
         </mxCell>
         <mxCell id="tLMuchvxvVEmmMeO-nco-4" value="是否关联病害？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="322.4689045469736" y="397.13785830602524" width="109.5917173102843" height="66.40798918397299" as="geometry" />
