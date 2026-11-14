@@ -312,9 +312,6 @@
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-9" value="显示匹配记录或空结果提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="166.63336663336662" y="721.6483516483518" width="146.013986013986" height="32.30769230769231" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-10" target="RXFaZZ_4R0WEY9KHImyO-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-10" value="填写表单并提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="569.3306693306693" y="577.9120879120879" width="99.66033966033966" height="32.30769230769231" as="geometry" />
         </mxCell>
@@ -399,19 +396,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-10" target="RXFaZZ_4R0WEY9KHImyO-11">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-27" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-10" target="RXFaZZ_4R0WEY9KHImyO-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-28" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.66;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-11" target="RXFaZZ_4R0WEY9KHImyO-12">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-28" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.66;entryY=-0.01;rounded=1;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-11" target="RXFaZZ_4R0WEY9KHImyO-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="572.8071928071929" y="830.4395604395604" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=1;entryX=0.96;entryY=0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-11" target="RXFaZZ_4R0WEY9KHImyO-13">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-29" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=0.55;exitY=1;entryX=0.96;entryY=0.01;rounded=1;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-11" target="RXFaZZ_4R0WEY9KHImyO-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="627.8521478521478" y="830.4395604395604" />
@@ -426,7 +423,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-31" value="确认" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.45;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-14" target="RXFaZZ_4R0WEY9KHImyO-12">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-31" value="确认" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.45;entryY=-0.01;rounded=1;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-14" target="RXFaZZ_4R0WEY9KHImyO-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="496.9030969030969" y="830.4395604395604" />
@@ -448,7 +445,7 @@
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-34" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.66;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-15" target="RXFaZZ_4R0WEY9KHImyO-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.46;entryY=0.01;rounded=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-15" target="RXFaZZ_4R0WEY9KHImyO-13">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-35" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.46;entryY=0.01;rounded=1;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-15" target="RXFaZZ_4R0WEY9KHImyO-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="514.8651348651348" y="1053.9560439560441" />
@@ -477,9 +474,6 @@
             </Array>
             <mxPoint x="160" y="1078" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-39" value="填写表单并提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="569.3306693306693" y="690.2197802197802" width="99.66033966033966" height="32.30769230769231" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
