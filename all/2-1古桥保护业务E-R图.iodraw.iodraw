@@ -380,15 +380,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-25" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-9" target="RXFaZZ_4R0WEY9KHImyO-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="172.8971123717424" y="769.3218637700929" />
-              <mxPoint x="172.8971123717424" y="481.28426871354253" />
-            </Array>
-            <mxPoint x="360.5516972835088" y="492.172287770663" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-26" value="新增或编辑" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-10">
           <mxGeometry x="0.307" relative="1" as="geometry">
             <mxPoint as="offset" />
