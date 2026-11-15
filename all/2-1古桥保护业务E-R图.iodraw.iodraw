@@ -814,10 +814,10 @@
           <mxGeometry x="1542.1498257839721" y="793.3804809052333" width="98.04878048780488" height="50.4101838755304" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-21" value="执行删除" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1441.2996515679442" y="878.1612446958982" width="89.64459930313589" height="50.4101838755304" as="geometry" />
+          <mxGeometry x="1419.5896515679442" y="878.1612446958982" width="89.64459930313589" height="50.4101838755304" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-22" value="删除成功？" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="957.21" width="110" height="71.03" as="geometry" />
+          <mxGeometry x="1409.41" y="957.21" width="110" height="71.03" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-23" value="显示失败原因" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1554.0598257839722" y="967.5247524752475" width="98.04878048780488" height="50.4101838755304" as="geometry" />
