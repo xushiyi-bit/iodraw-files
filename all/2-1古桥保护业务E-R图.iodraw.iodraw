@@ -602,7 +602,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-1" value="巡检表&#xa;PK inspection_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="130" width="178" height="66" as="geometry" />
+          <mxGeometry x="500" y="140" width="178" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-2" value="病害表&#xa;PK defect_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="349" y="40" width="151" height="66" as="geometry" />
@@ -619,7 +619,7 @@
           <mxGeometry x="130" y="230" width="197" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-4" value="古桥表&#xa;PK bridge_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="50" width="150" height="66" as="geometry" />
+          <mxGeometry x="830" y="50" width="150" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-5" value="工作人员表&#xa;PK staff_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="820" y="196" width="140" height="66" as="geometry" />
@@ -640,7 +640,7 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-8" value="bridge_id" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="199" y="300" />
+              <mxPoint x="229" y="300" />
               <mxPoint x="1133" y="300" />
               <mxPoint x="1133" y="83" />
             </Array>
