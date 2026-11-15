@@ -739,7 +739,7 @@
           <mxGeometry x="540" y="104" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-6" value="从侧栏选择页面" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="538" y="202" width="161" height="108" as="geometry" />
+          <mxGeometry x="530" y="202" width="180" height="108" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-7" value="查看数据总览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="334" y="413" width="156" height="49" as="geometry" />
@@ -791,10 +791,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A48PPvCG1zbCq7HHLWkh-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="A48PPvCG1zbCq7HHLWkh-5" target="A48PPvCG1zbCq7HHLWkh-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="A48PPvCG1zbCq7HHLWkh-23" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="A48PPvCG1zbCq7HHLWkh-5" target="A48PPvCG1zbCq7HHLWkh-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="A48PPvCG1zbCq7HHLWkh-6" target="A48PPvCG1zbCq7HHLWkh-7">
           <mxGeometry relative="1" as="geometry">
