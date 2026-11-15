@@ -762,8 +762,11 @@
         <mxCell id="A48PPvCG1zbCq7HHLWkh-13" value="填写并提交表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="633.9391829155061" y="921.3618181818183" width="130.47725162488393" height="40.09090909090909" as="geometry" />
         </mxCell>
+        <mxCell id="A48PPvCG1zbCq7HHLWkh-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A48PPvCG1zbCq7HHLWkh-14" target="A48PPvCG1zbCq7HHLWkh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-14" value="保存成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="650.25" y="1022" width="97.86" height="138" as="geometry" />
+          <mxGeometry x="650.2488393686166" y="1021.9990909090909" width="97.85793871866295" height="82.63636363636364" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-15" value="保留表单并提示原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="632.0427112349118" y="1199.9963636363636" width="155.51067780872796" height="40.09090909090909" as="geometry" />
