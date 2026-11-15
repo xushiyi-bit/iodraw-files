@@ -619,7 +619,7 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-6" value="bridge_id" style="startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0;entryY=0.25;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiRKc-YdtvhrkpM4y9pU-7" value="bridge_id" style="startArrow=none;endArrow=block;exitX=1;exitY=0.42;entryX=0;entryY=0.49;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-4">
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-7" value="bridge_id" style="startArrow=none;endArrow=block;exitX=1;exitY=0.42;entryX=0;entryY=0.25;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-8" value="bridge_id" style="startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.28;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-4">
@@ -631,7 +631,7 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-10" value="maintainer_id" style="startArrow=none;endArrow=block;exitX=0.84;exitY=1.01;entryX=0;entryY=0.62;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiRKc-YdtvhrkpM4y9pU-11" value="inspection_id 可空" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-1">
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-11" value="inspection_id 可空" style="startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-12" value="defect_id 可空" style="startArrow=none;endArrow=block;exitX=0.78;exitY=0.01;entryX=0;entryY=0.51;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-2">
