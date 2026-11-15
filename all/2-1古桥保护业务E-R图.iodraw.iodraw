@@ -760,10 +760,10 @@
           <mxGeometry x="508.5" y="840" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-13" value="填写并提交表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="842" y="926" width="172" height="49" as="geometry" />
+          <mxGeometry x="842.5" y="690" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-14" value="保存成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="864" y="1049" width="129" height="101" as="geometry" />
+          <mxGeometry x="864" y="785" width="129" height="101" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-15" value="保留表单并提示原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="1251" width="205" height="49" as="geometry" />
