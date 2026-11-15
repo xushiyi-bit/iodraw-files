@@ -627,8 +627,8 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-6" value="bridge_id" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="147" />
-              <mxPoint x="760" y="157" />
+              <mxPoint x="920" y="147" />
+              <mxPoint x="920" y="157" />
               <mxPoint x="928" y="157" />
             </Array>
             <mxPoint x="680" y="150" as="sourcePoint" />
