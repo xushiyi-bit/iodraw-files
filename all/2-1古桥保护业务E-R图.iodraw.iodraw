@@ -684,60 +684,60 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QDX5d7gyBK18UOdSvT53" name="第 6 页">
-    <mxGraphModel dx="665" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AuqCrVkJSelpkQWiDg3j-1" value="" style="rounded=1;arcSize=5;fillColor=#f8fafb;strokeColor=#c8d5db;" vertex="1" parent="1">
-          <mxGeometry x="250" y="270" width="514" height="486" as="geometry" />
+          <mxGeometry x="80" y="130" width="514" height="486" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-2" value="养护明细查询" style="text;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=26;fontStyle=1;fontColor=#202c34;" vertex="1" parent="1">
-          <mxGeometry x="280" y="288" width="454" height="42" as="geometry" />
+          <mxGeometry x="110" y="148" width="454" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-3" value="&lt;b&gt;定位古桥&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:17px&#39;&gt;按档案编号 HE-ZZ-001 定位赵州桥&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;arcSize=13;fillColor=white;strokeColor=#435863;strokeWidth=1.3;fontFamily=Microsoft YaHei;fontSize=21;fontColor=#202c34;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="282" y="346" width="450" height="72" as="geometry" />
+          <mxGeometry x="112" y="206" width="450" height="72" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-4" value="&lt;b&gt;内连接  JOIN&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:17px&#39;&gt;关联古桥、巡检、病害和养护四张表&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;arcSize=13;fillColor=white;strokeColor=#435863;strokeWidth=1.3;fontFamily=Microsoft YaHei;fontSize=21;fontColor=#202c34;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="282" y="446" width="450" height="72" as="geometry" />
+          <mxGeometry x="112" y="306" width="450" height="72" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#435863;strokeWidth=1.5;endArrow=block;endSize=6;exitX=0.5;exitY=1;entryX=0.5;entryY=0;html=1;" edge="1" parent="1" source="AuqCrVkJSelpkQWiDg3j-3" target="AuqCrVkJSelpkQWiDg3j-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-6" value="&lt;b&gt;筛选演示记录&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:17px&#39;&gt;养护内容以“【课程演示】”开头&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;arcSize=13;fillColor=white;strokeColor=#435863;strokeWidth=1.3;fontFamily=Microsoft YaHei;fontSize=21;fontColor=#202c34;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="282" y="546" width="450" height="72" as="geometry" />
+          <mxGeometry x="112" y="406" width="450" height="72" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#435863;strokeWidth=1.5;endArrow=block;endSize=6;exitX=0.5;exitY=1;entryX=0.5;entryY=0;html=1;" edge="1" parent="1" source="AuqCrVkJSelpkQWiDg3j-4" target="AuqCrVkJSelpkQWiDg3j-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-8" value="&lt;b&gt;输出每笔养护明细&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:17px&#39;&gt;巡检日期、病害及发现日期、养护日期和费用&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;arcSize=13;fillColor=#eff5f6;strokeColor=#435863;strokeWidth=1.3;fontFamily=Microsoft YaHei;fontSize=21;fontColor=#202c34;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="282" y="646" width="450" height="72" as="geometry" />
+          <mxGeometry x="112" y="506" width="450" height="72" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#435863;strokeWidth=1.5;endArrow=block;endSize=6;exitX=0.5;exitY=1;entryX=0.5;entryY=0;html=1;" edge="1" parent="1" source="AuqCrVkJSelpkQWiDg3j-6" target="AuqCrVkJSelpkQWiDg3j-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-10" value="" style="rounded=1;arcSize=5;fillColor=#f8fafb;strokeColor=#c8d5db;" vertex="1" parent="1">
-          <mxGeometry x="800" y="270" width="514" height="486" as="geometry" />
+          <mxGeometry x="630" y="130" width="514" height="486" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-11" value="分桥费用汇总" style="text;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=26;fontStyle=1;fontColor=#202c34;" vertex="1" parent="1">
-          <mxGeometry x="830" y="288" width="454" height="42" as="geometry" />
+          <mxGeometry x="660" y="148" width="454" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-12" value="&lt;b&gt;读取古桥档案&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:17px&#39;&gt;以所有古桥档案作为统计范围&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;arcSize=13;fillColor=white;strokeColor=#435863;strokeWidth=1.3;fontFamily=Microsoft YaHei;fontSize=21;fontColor=#202c34;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="832" y="346" width="450" height="72" as="geometry" />
+          <mxGeometry x="662" y="206" width="450" height="72" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-13" value="&lt;b&gt;左连接  LEFT JOIN&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:17px&#39;&gt;按古桥 ID 连接养护表，保留全部古桥&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;arcSize=13;fillColor=white;strokeColor=#435863;strokeWidth=1.3;fontFamily=Microsoft YaHei;fontSize=21;fontColor=#202c34;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="832" y="446" width="450" height="72" as="geometry" />
+          <mxGeometry x="662" y="306" width="450" height="72" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#435863;strokeWidth=1.5;endArrow=block;endSize=6;exitX=0.5;exitY=1;entryX=0.5;entryY=0;html=1;" edge="1" parent="1" source="AuqCrVkJSelpkQWiDg3j-12" target="AuqCrVkJSelpkQWiDg3j-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-15" value="&lt;b&gt;分组求和  GROUP BY + SUM&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:17px&#39;&gt;按古桥 ID 和桥名分组，累加养护费用&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;arcSize=13;fillColor=white;strokeColor=#435863;strokeWidth=1.3;fontFamily=Microsoft YaHei;fontSize=21;fontColor=#202c34;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="832" y="546" width="450" height="72" as="geometry" />
+          <mxGeometry x="662" y="406" width="450" height="72" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#435863;strokeWidth=1.5;endArrow=block;endSize=6;exitX=0.5;exitY=1;entryX=0.5;entryY=0;html=1;" edge="1" parent="1" source="AuqCrVkJSelpkQWiDg3j-13" target="AuqCrVkJSelpkQWiDg3j-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-17" value="&lt;b&gt;输出各桥费用合计&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:17px&#39;&gt;无养护记录显示 0，按费用由高到低排列&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;arcSize=13;fillColor=#eff5f6;strokeColor=#435863;strokeWidth=1.3;fontFamily=Microsoft YaHei;fontSize=21;fontColor=#202c34;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="832" y="646" width="450" height="72" as="geometry" />
+          <mxGeometry x="662" y="506" width="450" height="72" as="geometry" />
         </mxCell>
         <mxCell id="AuqCrVkJSelpkQWiDg3j-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#435863;strokeWidth=1.5;endArrow=block;endSize=6;exitX=0.5;exitY=1;entryX=0.5;entryY=0;html=1;" edge="1" parent="1" source="AuqCrVkJSelpkQWiDg3j-15" target="AuqCrVkJSelpkQWiDg3j-17">
           <mxGeometry relative="1" as="geometry" />
