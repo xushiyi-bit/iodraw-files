@@ -316,7 +316,7 @@
           <mxGeometry x="369.99667439487837" y="617.9031043131009" width="94.93258716307965" height="31.97879723070345" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-11" value="提交内容是否符合要求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="520.3438628619292" y="703.9937494273702" width="143.04613713807086" height="89.08379228553103" as="geometry" />
+          <mxGeometry x="345.94386286192923" y="712.8937494273702" width="143.04613713807086" height="89.08379228553103" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-12" value="执行数据库操作并检查约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="689.997882591985" y="769.9955523418056" width="139.0872788668376" height="31.97879723070345" as="geometry" />
@@ -325,7 +325,7 @@
           <mxGeometry x="434.2434035517698" y="1060.3312027692964" width="86.10164882232806" height="31.97879723070345" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-14" value="确认删除？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="659.9952824046753" y="551.9955243253148" width="86.45446764767473" height="65.91210809215013" as="geometry" />
+          <mxGeometry x="603.5452824046753" y="568.7955243253148" width="86.45446764767473" height="65.91210809215013" as="geometry" />
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-15" value="操作是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="746.4452824046754" y="910.0041305697794" width="104.78174792027566" height="69.28739399985747" as="geometry" />
@@ -370,8 +370,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-26" value="新增或编辑" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-10">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-26" value="新增或编辑" style="startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="RXFaZZ_4R0WEY9KHImyO-10">
           <mxGeometry x="0.307" relative="1" as="geometry">
+            <mxPoint x="430" y="520" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
