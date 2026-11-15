@@ -607,6 +607,14 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-2" value="病害表&#xa;PK defect_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="349" y="40" width="151" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="6YakVWKK3QwajeUpfLJf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YakVWKK3QwajeUpfLJf-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6YakVWKK3QwajeUpfLJf-2">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-3" value="养护表&#xa;PK maintenance_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="190" width="197" height="66" as="geometry" />
         </mxCell>
@@ -637,16 +645,6 @@
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-9" value="inspector_id" style="startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.39;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-5">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PiRKc-YdtvhrkpM4y9pU-10" value="maintainer_id" style="startArrow=none;endArrow=block;entryX=0;entryY=0.62;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="PiRKc-YdtvhrkpM4y9pU-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="340" y="260" />
-              <mxPoint x="320" y="260" />
-              <mxPoint x="320" y="211" />
-            </Array>
-            <mxPoint x="390" y="250" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-11" value="inspection_id 可空" style="startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-1">
           <mxGeometry relative="1" as="geometry" />
