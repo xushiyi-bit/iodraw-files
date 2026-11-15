@@ -797,7 +797,7 @@
           <mxGeometry x="218.10269266480967" y="891.0936363636364" width="97.85793871866295" height="81.81818181818183" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-20" value="提示删除失败原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="102.54781801299907" y="1064.5454545454545" width="142.6146703806871" height="40.09090909090909" as="geometry" />
+          <mxGeometry x="118.40781801299907" y="1064.5454545454545" width="142.6146703806871" height="40.09090909090909" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-21" value="提示成功并刷新列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="377.54068709377907" y="1043.2736363636366" width="154.75208913649024" height="40.09090909090909" as="geometry" />
