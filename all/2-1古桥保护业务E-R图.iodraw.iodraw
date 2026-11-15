@@ -772,7 +772,7 @@
           <mxGeometry x="192" y="674" width="129" height="111" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-17" value="返回当前列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="926" width="156" height="49" as="geometry" />
+          <mxGeometry x="55" y="889" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-18" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="261.5" y="852" width="124" height="49" as="geometry" />
