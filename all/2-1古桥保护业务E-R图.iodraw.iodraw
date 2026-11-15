@@ -940,7 +940,7 @@
           <mxGeometry x="20" y="1259" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-12" value="保留表单并显示失败原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1261" width="237" height="49" as="geometry" />
+          <mxGeometry x="395" y="660" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-1" target="LUL-_5-wGbl4XLvhUMdY-2">
           <mxGeometry relative="1" as="geometry">
