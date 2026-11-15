@@ -396,10 +396,11 @@
             <mxPoint x="658.7033981839295" y="1139.5145117121886" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-30" value="删除" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.81;entryX=1;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-14">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-30" value="删除" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.81;entryX=0;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-14">
           <mxGeometry x="0.2616" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="484.38467209838" y="490.1926479420957" />
+              <mxPoint x="484" y="490" />
+              <mxPoint x="484" y="585" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
