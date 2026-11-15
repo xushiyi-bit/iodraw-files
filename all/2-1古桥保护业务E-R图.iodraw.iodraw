@@ -808,7 +808,12 @@
           <mxGeometry x="1272.5156794425088" y="883.889674681754" width="91.04529616724739" height="61.86704384724187" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xIX7MKVSHuf0jgSmG4Yd-19" target="xIX7MKVSHuf0jgSmG4Yd-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1530" y="825" />
+              <mxPoint x="1530" y="825" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-19" value="确认删除？" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1400" y="800" width="115.54" height="50" as="geometry" />
