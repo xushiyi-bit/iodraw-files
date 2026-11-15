@@ -866,9 +866,9 @@
         <mxCell id="A48PPvCG1zbCq7HHLWkh-38" value="是" style="startArrow=none;endArrow=block;exitX=0.23;exitY=1.01;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="A48PPvCG1zbCq7HHLWkh-14" target="A48PPvCG1zbCq7HHLWkh-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="682" y="1160" />
-              <mxPoint x="502" y="1160" />
-              <mxPoint x="502" y="1086" />
+              <mxPoint x="682" y="1090" />
+              <mxPoint x="580" y="1090" />
+              <mxPoint x="580" y="1086" />
             </Array>
             <mxPoint x="502" y="1100" as="targetPoint" />
           </mxGeometry>
