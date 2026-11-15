@@ -775,7 +775,7 @@
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-50" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A48PPvCG1zbCq7HHLWkh-49">
           <mxGeometry x="-0.0505" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-14" value="保存成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
