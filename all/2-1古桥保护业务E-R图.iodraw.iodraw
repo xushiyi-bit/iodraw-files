@@ -791,7 +791,7 @@
           <mxGeometry x="36.55060352831941" y="851" width="118.33983286908078" height="40.09090909090909" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-18" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="209.99916434540393" y="810.9072727272727" width="94.06499535747447" height="40.09090909090909" as="geometry" />
+          <mxGeometry x="219.99916434540393" y="810.9072727272727" width="94.06499535747447" height="40.09090909090909" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-19" value="删除成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="191.30269266480965" y="921.3636363636364" width="97.85793871866295" height="81.81818181818183" as="geometry" />
@@ -843,7 +843,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="268" y="748" />
-              <mxPoint x="257" y="748" />
+              <mxPoint x="267" y="811" />
             </Array>
           </mxGeometry>
         </mxCell>
