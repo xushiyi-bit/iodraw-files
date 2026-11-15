@@ -968,8 +968,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUL-_5-wGbl4XLvhUMdY-18" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.25;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-5" target="LUL-_5-wGbl4XLvhUMdY-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LUL-_5-wGbl4XLvhUMdY-18" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-5" target="LUL-_5-wGbl4XLvhUMdY-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="464" />
+              <mxPoint x="40" y="666" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-6" target="LUL-_5-wGbl4XLvhUMdY-7">
           <mxGeometry relative="1" as="geometry">
