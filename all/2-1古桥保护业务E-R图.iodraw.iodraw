@@ -760,7 +760,7 @@
           <mxGeometry x="1116.34" y="710" width="249.32" height="354.91" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-3" value="" style="rounded=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="1393.68" y="710" width="249.32" height="354.91" as="geometry" />
+          <mxGeometry x="1393.68" y="710" width="256.32" height="354.91" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-4" value="打开系统" style="rounded=1;arcSize=50;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1190.574912891986" y="350" width="100.85017421602787" height="48.11881188118812" as="geometry" />
