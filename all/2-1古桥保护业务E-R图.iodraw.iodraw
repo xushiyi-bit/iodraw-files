@@ -733,7 +733,7 @@
           <mxGeometry x="375.48521739130433" y="611.0322727272726" width="173.33333333333331" height="204.915" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-4" value="打开系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="180" width="51.24" height="30" as="geometry" />
+          <mxGeometry x="396.37" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-5" value="显示数据总览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="382.0614159030049" y="239.35537190082647" width="89.1836421622058" height="34.62396694214876" as="geometry" />
