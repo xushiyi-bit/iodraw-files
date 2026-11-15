@@ -619,9 +619,7 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-6" value="bridge_id" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="133" />
-              <mxPoint x="940" y="140" />
-              <mxPoint x="1058" y="140" />
+              <mxPoint x="1058" y="133" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -645,7 +643,7 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-11" value="inspection_id 可空" style="startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiRKc-YdtvhrkpM4y9pU-12" value="defect_id 可空" style="startArrow=none;endArrow=block;exitX=0.78;exitY=0.01;entryX=0;entryY=0.51;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-2">
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-12" value="defect_id 可空" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.51;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
