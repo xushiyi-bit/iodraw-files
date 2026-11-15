@@ -672,22 +672,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bxSoSTXYkRTeoiIirbCw-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="20" width="694" height="512" as="geometry" />
+          <mxGeometry x="67" y="220" width="673" height="490" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-1" value="分桥费用汇总" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-17">
-          <mxGeometry width="322" height="512" as="geometry" />
+          <mxGeometry width="312.2564841498559" height="490" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-2" value="从全部古桥档案出发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-1">
-          <mxGeometry x="67" y="46" width="204" height="49" as="geometry" />
+          <mxGeometry x="64.97262247838617" y="44.0234375" width="197.8270893371758" height="46.89453125" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-3" value="按古桥 ID 左连接养护表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-1">
-          <mxGeometry x="55" y="169" width="229" height="49" as="geometry" />
+          <mxGeometry x="53.335734870317005" y="161.73828125" width="222.0706051873199" height="46.89453125" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-4" value="按古桥分组并累加费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-1">
-          <mxGeometry x="59" y="293" width="221" height="49" as="geometry" />
+          <mxGeometry x="57.21469740634006" y="280.41015625" width="214.3126801152738" height="46.89453125" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-5" value="输出每座桥的费用合计，无养护时显示 0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-1">
-          <mxGeometry x="43" y="417" width="252" height="66" as="geometry" />
+          <mxGeometry x="41.69884726224784" y="399.08203125" width="244.37463976945244" height="63.1640625" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="bxSoSTXYkRTeoiIirbCw-1" source="bxSoSTXYkRTeoiIirbCw-2" target="bxSoSTXYkRTeoiIirbCw-3">
           <mxGeometry relative="1" as="geometry">
@@ -705,19 +705,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-9" value="养护明细查询" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-17">
-          <mxGeometry x="372" width="322" height="512" as="geometry" />
+          <mxGeometry x="360.7435158501441" width="312.2564841498559" height="490" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-10" value="按档案编号定位赵州桥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-9">
-          <mxGeometry x="59" y="46" width="221" height="49" as="geometry" />
+          <mxGeometry x="57.21469740634006" y="44.0234375" width="214.3126801152738" height="46.89453125" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-11" value="沿古桥、巡检、病害、养护做内连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-9">
-          <mxGeometry x="43" y="169" width="252" height="66" as="geometry" />
+          <mxGeometry x="41.69884726224784" y="161.73828125" width="244.37463976945244" height="63.1640625" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-12" value="筛选带课程演示标记的养护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-9">
-          <mxGeometry x="43" y="310" width="252" height="49" as="geometry" />
+          <mxGeometry x="41.69884726224784" y="296.6796875" width="244.37463976945244" height="46.89453125" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-13" value="输出日期、病害及单条费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-9">
-          <mxGeometry x="43" y="434" width="252" height="49" as="geometry" />
+          <mxGeometry x="41.69884726224784" y="415.3515625" width="244.37463976945244" height="46.89453125" as="geometry" />
         </mxCell>
         <mxCell id="bxSoSTXYkRTeoiIirbCw-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="bxSoSTXYkRTeoiIirbCw-9" source="bxSoSTXYkRTeoiIirbCw-10" target="bxSoSTXYkRTeoiIirbCw-11">
           <mxGeometry relative="1" as="geometry">
