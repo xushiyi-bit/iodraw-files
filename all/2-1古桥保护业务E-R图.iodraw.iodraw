@@ -614,7 +614,7 @@
           <mxGeometry x="1020" y="30" width="150" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-5" value="工作人员表&#xa;PK staff_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="778" y="206" width="140" height="66" as="geometry" />
+          <mxGeometry x="740" y="206" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-6" value="bridge_id" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-4">
           <mxGeometry relative="1" as="geometry">
@@ -640,8 +640,8 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-10" value="maintainer_id" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.62;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="297" y="256" />
-              <mxPoint x="538" y="256" />
+              <mxPoint x="297" y="220" />
+              <mxPoint x="538" y="220" />
               <mxPoint x="538" y="247" />
             </Array>
           </mxGeometry>
