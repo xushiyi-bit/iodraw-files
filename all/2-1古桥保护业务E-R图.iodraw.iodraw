@@ -939,6 +939,9 @@
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-9" value="MySQL 检查古桥和养护人员是否存在、费用是否非负&#xa;已关联病害时，检查病害是否存在、是否同桥及日期先后" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="206" y="840" width="252" height="137" as="geometry" />
         </mxCell>
+        <mxCell id="LUL-_5-wGbl4XLvhUMdY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-10" target="LUL-_5-wGbl4XLvhUMdY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-10" value="保存成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="530" y="280" width="129" height="89" as="geometry" />
         </mxCell>
