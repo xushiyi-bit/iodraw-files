@@ -934,7 +934,7 @@
           <mxGeometry x="24" y="848" width="252" height="137" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-10" value="保存成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="580" y="370" width="129" height="129" as="geometry" />
+          <mxGeometry x="85" y="1057" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-11" value="关闭表单，提示成功并刷新列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1259" width="220" height="51" as="geometry" />
