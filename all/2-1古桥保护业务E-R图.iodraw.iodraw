@@ -596,7 +596,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="MAsx57TG96rwW5eaCMYm" name="第 4 页">
+  <diagram id="MAsx57TG96rwW5eaCMYm" name="2-2">
     <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -656,7 +656,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-11" value="inspection_id 可空" style="startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.4439" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-12" value="defect_id 可空" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.51;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-2">
           <mxGeometry relative="1" as="geometry" />
