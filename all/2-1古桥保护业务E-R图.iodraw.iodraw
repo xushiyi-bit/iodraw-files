@@ -930,6 +930,9 @@
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-8" target="LUL-_5-wGbl4XLvhUMdY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LUL-_5-wGbl4XLvhUMdY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-8" target="LUL-_5-wGbl4XLvhUMdY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-8" value="提交保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="206.5" y="680" width="124" height="49" as="geometry" />
         </mxCell>
@@ -942,13 +945,8 @@
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-11" value="关闭表单，提示成功并刷新列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" y="650" width="220" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="LUL-_5-wGbl4XLvhUMdY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="600.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-12" value="保留表单并显示失败原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="395" y="690" width="237" height="49" as="geometry" />
+          <mxGeometry x="450" y="510" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-1" target="LUL-_5-wGbl4XLvhUMdY-2">
           <mxGeometry relative="1" as="geometry">
