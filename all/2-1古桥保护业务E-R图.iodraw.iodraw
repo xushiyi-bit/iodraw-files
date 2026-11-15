@@ -919,7 +919,7 @@
           <mxGeometry x="302" y="440" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-7" value="填写养护人员、日期、类型、内容和费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="143" y="633" width="252" height="66" as="geometry" />
+          <mxGeometry x="143" y="560" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-8" value="提交保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="207" y="749" width="124" height="49" as="geometry" />
