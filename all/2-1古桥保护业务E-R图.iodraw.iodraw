@@ -611,7 +611,7 @@
           <mxGeometry x="100" y="190" width="197" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-4" value="古桥表&#xa;PK bridge_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="30" width="150" height="66" as="geometry" />
+          <mxGeometry x="890" y="50" width="150" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-5" value="工作人员表&#xa;PK staff_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="980" y="190" width="140" height="66" as="geometry" />
