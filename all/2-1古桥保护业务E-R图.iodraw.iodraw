@@ -642,7 +642,8 @@
             <Array as="points">
               <mxPoint x="297" y="220" />
               <mxPoint x="538" y="220" />
-              <mxPoint x="538" y="247" />
+              <mxPoint x="538" y="223" />
+              <mxPoint x="970" y="223" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -650,6 +651,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-12" value="defect_id 可空" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.51;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YakVWKK3QwajeUpfLJf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.026;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-5" target="PiRKc-YdtvhrkpM4y9pU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
