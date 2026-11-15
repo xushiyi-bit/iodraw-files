@@ -946,8 +946,9 @@
             <Array as="points">
               <mxPoint x="580" y="351" />
               <mxPoint x="763" y="351" />
-              <mxPoint x="763" y="770" />
-              <mxPoint x="690" y="770" />
+              <mxPoint x="763" y="780" />
+              <mxPoint x="770" y="780" />
+              <mxPoint x="770" y="776" />
             </Array>
           </mxGeometry>
         </mxCell>
