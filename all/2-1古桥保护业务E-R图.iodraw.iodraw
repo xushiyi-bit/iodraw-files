@@ -804,7 +804,7 @@
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-17" value="保存成功？" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1149.9519163763066" y="928.575558698727" width="88.2439024390244" height="75.61527581329561" as="geometry" />
         </mxCell>
-        <mxCell id="xIX7MKVSHuf0jgSmG4Yd-18" value="显示失败原因&lt;br&gt;保留原表单" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="xIX7MKVSHuf0jgSmG4Yd-18" value="显示失败原因&lt;br style=&quot;font-size: 14px;&quot;&gt;保留原表单" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1272.5156794425088" y="883.889674681754" width="91.04529616724739" height="61.86704384724187" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-19" value="确认删除？" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
