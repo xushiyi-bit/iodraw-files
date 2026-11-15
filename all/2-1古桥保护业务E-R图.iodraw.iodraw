@@ -766,7 +766,7 @@
           <mxGeometry x="864" y="785" width="129" height="101" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-15" value="保留表单并提示原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1169" width="205" height="49" as="geometry" />
+          <mxGeometry x="840" y="990" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-16" value="确认删除？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="192" y="674" width="129" height="111" as="geometry" />
