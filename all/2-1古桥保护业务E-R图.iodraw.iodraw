@@ -930,7 +930,7 @@
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-8" target="LUL-_5-wGbl4XLvhUMdY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LUL-_5-wGbl4XLvhUMdY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-8" target="LUL-_5-wGbl4XLvhUMdY-12">
+        <mxCell id="LUL-_5-wGbl4XLvhUMdY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;curved=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-8" target="LUL-_5-wGbl4XLvhUMdY-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-8" value="提交保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -940,7 +940,7 @@
           <mxGeometry x="206" y="840" width="252" height="137" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-10" value="保存成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="540" y="240" width="129" height="129" as="geometry" />
+          <mxGeometry x="540" y="280" width="129" height="89" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-11" value="关闭表单，提示成功并刷新列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" y="650" width="220" height="51" as="geometry" />
