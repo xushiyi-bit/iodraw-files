@@ -722,7 +722,7 @@
         <mxCell id="3XL6I95lYLL9juZEN1bX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=14;curved=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=block;endFill=1;endSize=6;strokeWidth=1.5;strokeColor=#435863;exitX=0;exitY=0.5;exitPerimeter=1;entryX=1;entryY=0.5;entryPerimeter=1;" edge="1" parent="1" source="3XL6I95lYLL9juZEN1bX-19" target="3XL6I95lYLL9juZEN1bX-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3XL6I95lYLL9juZEN1bX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=14;curved=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=block;endFill=1;endSize=6;strokeWidth=1.5;strokeColor=#435863;exitX=0;exitY=0.5;exitPerimeter=1;entryX=1;entryY=0.5;entryPerimeter=1;" edge="1" parent="1" source="3XL6I95lYLL9juZEN1bX-29" target="3XL6I95lYLL9juZEN1bX-21">
+        <mxCell id="3XL6I95lYLL9juZEN1bX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=14;curved=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=block;endFill=1;endSize=6;strokeWidth=1.5;strokeColor=#435863;exitX=0;exitY=0.5;exitPerimeter=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="3XL6I95lYLL9juZEN1bX-29" target="3XL6I95lYLL9juZEN1bX-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3XL6I95lYLL9juZEN1bX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=14;curved=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=block;endFill=1;endSize=6;strokeWidth=1.5;strokeColor=#435863;exitX=0;exitY=0.5;exitPerimeter=1;entryX=0;entryY=0.5;entryPerimeter=1;" edge="1" parent="1" source="3XL6I95lYLL9juZEN1bX-13" target="3XL6I95lYLL9juZEN1bX-35">
@@ -743,6 +743,9 @@
         </mxCell>
         <mxCell id="3XL6I95lYLL9juZEN1bX-46" value="PK 主键     FK 外键     UK 唯一键     箭头从外键指向被引用的主键" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#202c34;" vertex="1" parent="1">
           <mxGeometry x="152.97029702970295" y="680.3730272596845" width="524.059405940594" height="19.626972740315637" as="geometry" />
+        </mxCell>
+        <mxCell id="3XL6I95lYLL9juZEN1bX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3XL6I95lYLL9juZEN1bX-16" target="3XL6I95lYLL9juZEN1bX-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
