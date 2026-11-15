@@ -934,10 +934,10 @@
           <mxGeometry x="24" y="848" width="252" height="137" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-10" value="保存成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="330" width="129" height="129" as="geometry" />
+          <mxGeometry x="540" y="240" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-11" value="关闭表单，提示成功并刷新列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1259" width="220" height="51" as="geometry" />
+          <mxGeometry x="730" y="650" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-12" value="保留表单并显示失败原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="395" y="660" width="237" height="49" as="geometry" />
