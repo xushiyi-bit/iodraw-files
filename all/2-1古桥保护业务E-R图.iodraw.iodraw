@@ -951,19 +951,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUL-_5-wGbl4XLvhUMdY-16" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-4" target="LUL-_5-wGbl4XLvhUMdY-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="158" y="498" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="LUL-_5-wGbl4XLvhUMdY-16" value="是" style="startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-4" target="LUL-_5-wGbl4XLvhUMdY-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LUL-_5-wGbl4XLvhUMdY-17" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-4" target="LUL-_5-wGbl4XLvhUMdY-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="498" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="LUL-_5-wGbl4XLvhUMdY-17" value="否" style="startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-4" target="LUL-_5-wGbl4XLvhUMdY-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-5" target="LUL-_5-wGbl4XLvhUMdY-7">
           <mxGeometry relative="1" as="geometry">
