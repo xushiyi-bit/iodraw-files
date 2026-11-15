@@ -807,11 +807,11 @@
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-18" value="显示失败原因&lt;br style=&quot;font-size: 14px;&quot;&gt;保留原表单" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1272.5156794425088" y="883.889674681754" width="91.04529616724739" height="61.86704384724187" as="geometry" />
         </mxCell>
-        <mxCell id="xIX7MKVSHuf0jgSmG4Yd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xIX7MKVSHuf0jgSmG4Yd-19" target="xIX7MKVSHuf0jgSmG4Yd-3">
+        <mxCell id="xIX7MKVSHuf0jgSmG4Yd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xIX7MKVSHuf0jgSmG4Yd-19" target="xIX7MKVSHuf0jgSmG4Yd-20">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1516" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1530" y="825" />
-              <mxPoint x="1530" y="825" />
+              <mxPoint x="1601" y="825" />
             </Array>
           </mxGeometry>
         </mxCell>
