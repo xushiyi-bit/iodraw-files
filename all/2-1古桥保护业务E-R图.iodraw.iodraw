@@ -615,8 +615,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6YakVWKK3QwajeUpfLJf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6YakVWKK3QwajeUpfLJf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="229" y="320" />
+              <mxPoint x="1060" y="320" />
+              <mxPoint x="1060" y="83" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-3" value="养护表&#xa;PK maintenance_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="197" height="66" as="geometry" />
