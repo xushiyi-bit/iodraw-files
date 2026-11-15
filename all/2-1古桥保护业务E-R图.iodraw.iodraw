@@ -636,15 +636,16 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-7" value="bridge_id" style="startArrow=none;endArrow=block;exitX=1;exitY=0.42;entryX=0;entryY=0.25;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiRKc-YdtvhrkpM4y9pU-8" value="bridge_id" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-8" value="bridge_id" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="343" />
-              <mxPoint x="1133" y="343" />
-              <mxPoint x="1133" y="106" />
+              <mxPoint x="230" y="296" />
+              <mxPoint x="230" y="343" />
+              <mxPoint x="1123" y="343" />
+              <mxPoint x="1123" y="106" />
             </Array>
-            <mxPoint x="240" y="300" as="sourcePoint" />
-            <mxPoint x="980" y="106" as="targetPoint" />
+            <mxPoint x="230" y="300" as="sourcePoint" />
+            <mxPoint x="970" y="106" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-9" value="inspector_id" style="startArrow=none;endArrow=block;entryX=0;entryY=0.39;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-5">
