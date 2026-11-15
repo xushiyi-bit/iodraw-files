@@ -616,14 +616,13 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-5" value="工作人员表&#xa;PK staff_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="778" y="206" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="PiRKc-YdtvhrkpM4y9pU-6" value="bridge_id" style="startArrow=none;endArrow=block;exitX=0.77;exitY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-4">
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-6" value="bridge_id" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="737" y="90" />
+              <mxPoint x="940" y="133" />
+              <mxPoint x="940" y="90" />
               <mxPoint x="907" y="90" />
               <mxPoint x="907" y="96" />
-              <mxPoint x="1020" y="96" />
-              <mxPoint x="1020" y="53" />
             </Array>
           </mxGeometry>
         </mxCell>
