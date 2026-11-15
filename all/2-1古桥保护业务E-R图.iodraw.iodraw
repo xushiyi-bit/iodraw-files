@@ -330,15 +330,6 @@
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-15" value="操作是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="419.71528240467535" y="921.7541305697794" width="104.78174792027566" height="69.28739399985747" as="geometry" />
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-16" target="RXFaZZ_4R0WEY9KHImyO-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="268.1532468447203" y="1020.7361219981472" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="281.4891056709372" y="832.6703382842483" />
-              <mxPoint x="365.31450400715767" y="832.6703382842483" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-16" value="显示成功提示并刷新列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="249.1001738272388" y="1040.5348044836228" width="130.256340526086" height="31.97879723070345" as="geometry" />
         </mxCell>
@@ -369,9 +360,7 @@
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-23" value="查询" style="startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="354" y="481" />
-              <mxPoint x="354" y="490" />
-              <mxPoint x="260" y="490" />
+              <mxPoint x="260" y="481" />
             </Array>
             <mxPoint x="353.88376787040033" y="515.9279657134713" as="sourcePoint" />
           </mxGeometry>
@@ -430,14 +419,6 @@
         </mxCell>
         <mxCell id="RXFaZZ_4R0WEY9KHImyO-35" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.46;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-15" target="RXFaZZ_4R0WEY9KHImyO-13">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-36" value="" style="startArrow=none;endArrow=block;exitX=0.45;exitY=0.01;entryX=0.5;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-16" target="RXFaZZ_4R0WEY9KHImyO-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="308" y="900" />
-              <mxPoint x="387" y="900" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
