@@ -305,13 +305,18 @@
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-11" target="LUL-_5-wGbl4XLvhUMdY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4LZuYPpGhaHlHxGTejV9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-11" target="LUL-_5-wGbl4XLvhUMdY-10">
+        <mxCell id="4LZuYPpGhaHlHxGTejV9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-11" target="LUL-_5-wGbl4XLvhUMdY-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="595" y="780" />
               <mxPoint x="710" y="780" />
               <mxPoint x="710" y="502" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4LZuYPpGhaHlHxGTejV9-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4LZuYPpGhaHlHxGTejV9-3">
+          <mxGeometry x="0.3924" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-11" value="关闭表单，提示成功并刷新列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
