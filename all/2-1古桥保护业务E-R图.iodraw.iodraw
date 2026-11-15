@@ -671,6 +671,66 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-1" value="分桥费用汇总" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="322" height="512" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-2" value="从全部古桥档案出发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-1">
+          <mxGeometry x="67" y="46" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-3" value="按古桥 ID 左连接养护表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-1">
+          <mxGeometry x="55" y="169" width="229" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-4" value="按古桥分组并累加费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-1">
+          <mxGeometry x="59" y="293" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-5" value="输出每座桥的费用合计，无养护时显示 0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-1">
+          <mxGeometry x="43" y="417" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="bxSoSTXYkRTeoiIirbCw-1" source="bxSoSTXYkRTeoiIirbCw-2" target="bxSoSTXYkRTeoiIirbCw-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="bxSoSTXYkRTeoiIirbCw-1" source="bxSoSTXYkRTeoiIirbCw-3" target="bxSoSTXYkRTeoiIirbCw-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="bxSoSTXYkRTeoiIirbCw-1" source="bxSoSTXYkRTeoiIirbCw-4" target="bxSoSTXYkRTeoiIirbCw-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-9" value="养护明细查询" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="392" y="20" width="322" height="512" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-10" value="按档案编号定位赵州桥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-9">
+          <mxGeometry x="59" y="46" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-11" value="沿古桥、巡检、病害、养护做内连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-9">
+          <mxGeometry x="43" y="169" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-12" value="筛选带课程演示标记的养护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-9">
+          <mxGeometry x="43" y="310" width="252" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-13" value="输出日期、病害及单条费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="bxSoSTXYkRTeoiIirbCw-9">
+          <mxGeometry x="43" y="434" width="252" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="bxSoSTXYkRTeoiIirbCw-9" source="bxSoSTXYkRTeoiIirbCw-10" target="bxSoSTXYkRTeoiIirbCw-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="bxSoSTXYkRTeoiIirbCw-9" source="bxSoSTXYkRTeoiIirbCw-11" target="bxSoSTXYkRTeoiIirbCw-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxSoSTXYkRTeoiIirbCw-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="bxSoSTXYkRTeoiIirbCw-9" source="bxSoSTXYkRTeoiIirbCw-12" target="bxSoSTXYkRTeoiIirbCw-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
