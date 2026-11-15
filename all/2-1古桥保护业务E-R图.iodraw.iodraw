@@ -616,7 +616,7 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-5" value="工作人员表&#xa;PK staff_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="980" y="206" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="PiRKc-YdtvhrkpM4y9pU-6" value="bridge_id" style="startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0;entryY=0.25;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-4">
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-6" value="bridge_id" style="startArrow=none;endArrow=block;exitX=0.77;exitY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-7" value="bridge_id" style="startArrow=none;endArrow=block;exitX=1;exitY=0.42;entryX=0;entryY=0.25;rounded=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-4">
