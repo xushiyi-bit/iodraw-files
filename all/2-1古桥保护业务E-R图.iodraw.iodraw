@@ -910,7 +910,7 @@
           <mxGeometry x="143" y="202" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-4" value="是否关联病害？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="189" y="301" width="161" height="161" as="geometry" />
+          <mxGeometry x="188" y="301" width="161" height="89" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-5" value="选择一条病害记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="64" y="534" width="188" height="49" as="geometry" />
