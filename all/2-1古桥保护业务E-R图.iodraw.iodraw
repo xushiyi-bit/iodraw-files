@@ -927,11 +927,14 @@
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-7" value="填写养护人员、日期、类型、内容和费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="143" y="551" width="252" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="LUL-_5-wGbl4XLvhUMdY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-8" target="LUL-_5-wGbl4XLvhUMdY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-8" value="提交保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="206.5" y="680" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-9" value="MySQL 检查古桥和养护人员是否存在、费用是否非负&#xa;已关联病害时，检查病害是否存在、是否同桥及日期先后" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="24" y="848" width="252" height="137" as="geometry" />
+          <mxGeometry x="220" y="890" width="252" height="137" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-10" value="保存成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="540" y="240" width="129" height="129" as="geometry" />
