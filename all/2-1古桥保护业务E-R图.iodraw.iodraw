@@ -308,7 +308,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-11" value="关闭表单，提示成功并刷新列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570.0029268292683" y="883.2477777777777" width="209.9390243902439" height="49.86666666666667" as="geometry" />
+          <mxGeometry x="610.0029268292683" y="959.9977777777777" width="209.9390243902439" height="49.86666666666667" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;curved=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-12" target="LUL-_5-wGbl4XLvhUMdY-10">
           <mxGeometry relative="1" as="geometry" />
