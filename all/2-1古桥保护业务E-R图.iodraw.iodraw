@@ -807,11 +807,14 @@
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-18" value="显示失败原因&lt;br style=&quot;font-size: 14px;&quot;&gt;保留原表单" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1272.5156794425088" y="883.889674681754" width="91.04529616724739" height="61.86704384724187" as="geometry" />
         </mxCell>
+        <mxCell id="xIX7MKVSHuf0jgSmG4Yd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIX7MKVSHuf0jgSmG4Yd-19" target="xIX7MKVSHuf0jgSmG4Yd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-19" value="确认删除？" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1400" y="800" width="115.54" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-20" value="返回当前列表" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1554.059825783972" y="822.5004809052333" width="98.04878048780488" height="50.4101838755304" as="geometry" />
+          <mxGeometry x="1551.949825783972" y="844.9404809052334" width="98.04878048780488" height="50.4101838755304" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-21" value="执行删除" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1412.949651567944" y="883.8912446958982" width="89.64459930313589" height="50.4101838755304" as="geometry" />
@@ -902,9 +905,6 @@
               <mxPoint x="1458" y="770" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xIX7MKVSHuf0jgSmG4Yd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=12;endArrow=block;endSize=7;html=1;exitX=1.0;exitY=0.5;exitPerimeter=1;entryX=0.0;entryY=0.5;entryPerimeter=1;" edge="1" parent="1" source="xIX7MKVSHuf0jgSmG4Yd-19" target="xIX7MKVSHuf0jgSmG4Yd-20">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=12;endArrow=block;endSize=7;html=1;exitX=0.5;exitY=1.0;exitPerimeter=1;entryX=0.5;entryY=0.0;entryPerimeter=1;" edge="1" parent="1" source="xIX7MKVSHuf0jgSmG4Yd-19" target="xIX7MKVSHuf0jgSmG4Yd-21">
           <mxGeometry relative="1" as="geometry" />
