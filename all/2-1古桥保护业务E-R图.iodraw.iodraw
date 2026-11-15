@@ -641,9 +641,8 @@
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-10" value="maintainer_id" style="startArrow=none;endArrow=block;entryX=0;entryY=0.62;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="PiRKc-YdtvhrkpM4y9pU-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="203" />
-              <mxPoint x="297" y="203" />
-              <mxPoint x="297" y="211" />
+              <mxPoint x="340" y="210" />
+              <mxPoint x="320" y="210" />
             </Array>
             <mxPoint x="340" y="240" as="sourcePoint" />
           </mxGeometry>
