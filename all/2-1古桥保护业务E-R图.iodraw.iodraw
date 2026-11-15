@@ -934,13 +934,18 @@
           <mxGeometry x="206.5" y="680" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-9" value="MySQL 检查古桥和养护人员是否存在、费用是否非负&#xa;已关联病害时，检查病害是否存在、是否同桥及日期先后" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="890" width="252" height="137" as="geometry" />
+          <mxGeometry x="206" y="840" width="252" height="137" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-10" value="保存成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="540" y="240" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-11" value="关闭表单，提示成功并刷新列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" y="650" width="220" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="LUL-_5-wGbl4XLvhUMdY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="600.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-12" value="保留表单并显示失败原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="395" y="690" width="237" height="49" as="geometry" />
