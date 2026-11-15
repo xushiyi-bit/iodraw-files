@@ -785,13 +785,13 @@
           <mxGeometry x="587.4827112349119" y="1179.9963636363636" width="155.51067780872796" height="40.09090909090909" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-16" value="确认删除？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="179.99725162488394" y="675.0909090909091" width="97.85793871866295" height="90.81818181818183" as="geometry" />
+          <mxGeometry x="199.99725162488394" y="639.0909090909091" width="97.85793871866295" height="90.81818181818183" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-17" value="返回当前列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36.55060352831941" y="851" width="118.33983286908078" height="40.09090909090909" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-18" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193.19916434540391" y="820.7272727272727" width="94.06499535747447" height="40.09090909090909" as="geometry" />
+          <mxGeometry x="209.99916434540393" y="810.9072727272727" width="94.06499535747447" height="40.09090909090909" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-19" value="删除成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="191.30269266480965" y="921.3636363636364" width="97.85793871866295" height="81.81818181818183" as="geometry" />
@@ -842,7 +842,8 @@
         <mxCell id="A48PPvCG1zbCq7HHLWkh-32" value="确认" style="startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="A48PPvCG1zbCq7HHLWkh-16" target="A48PPvCG1zbCq7HHLWkh-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="239.8523676880223" y="747.909090909091" />
+              <mxPoint x="268" y="748" />
+              <mxPoint x="257" y="748" />
             </Array>
           </mxGeometry>
         </mxCell>
