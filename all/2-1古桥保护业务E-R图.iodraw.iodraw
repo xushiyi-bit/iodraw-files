@@ -913,10 +913,10 @@
           <mxGeometry x="188" y="301" width="161" height="89" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-5" value="选择一条病害记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64" y="534" width="188" height="49" as="geometry" />
+          <mxGeometry x="64" y="440" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-6" value="关联病害留空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="302" y="534" width="156" height="49" as="geometry" />
+          <mxGeometry x="302" y="450" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-7" value="填写养护人员、日期、类型、内容和费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="143" y="633" width="252" height="66" as="geometry" />
@@ -952,10 +952,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-16" value="是" style="startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-4" target="LUL-_5-wGbl4XLvhUMdY-5">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2998" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="158" y="368" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUL-_5-wGbl4XLvhUMdY-17" value="否" style="startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="LUL-_5-wGbl4XLvhUMdY-4" target="LUL-_5-wGbl4XLvhUMdY-6">
