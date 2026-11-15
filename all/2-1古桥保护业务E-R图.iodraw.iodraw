@@ -760,7 +760,7 @@
           <mxGeometry x="1116.34" y="710" width="249.32" height="354.91" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-3" value="" style="rounded=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="1393.6759581881533" y="702.8712871287128" width="249.32404181184668" height="362.03677510608213" as="geometry" />
+          <mxGeometry x="1393.68" y="710" width="249.32" height="354.91" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-4" value="打开系统" style="rounded=1;arcSize=50;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1190.574912891986" y="350" width="100.85017421602787" height="48.11881188118812" as="geometry" />
@@ -817,7 +817,7 @@
           <mxGeometry x="1441.2996515679442" y="878.1612446958982" width="89.64459930313589" height="50.4101838755304" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-22" value="删除成功？" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1439.8989547038327" y="957.2135785007071" width="92.44599303135888" height="71.03253182461104" as="geometry" />
+          <mxGeometry x="1430" y="957.21" width="102.34" height="71.03" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-23" value="显示失败原因" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1542.1498257839721" y="967.5247524752475" width="98.04878048780488" height="50.4101838755304" as="geometry" />
