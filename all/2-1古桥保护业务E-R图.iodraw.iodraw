@@ -817,7 +817,7 @@
           <mxGeometry x="1412.949651567944" y="883.8912446958982" width="89.64459930313589" height="50.4101838755304" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-22" value="删除成功？" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1409.41" y="957.21" width="110" height="71.03" as="geometry" />
+          <mxGeometry x="1402.77" y="957.21" width="110" height="71.03" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-23" value="显示失败原因" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1554.0598257839722" y="967.5247524752475" width="98.04878048780488" height="50.4101838755304" as="geometry" />
@@ -918,7 +918,7 @@
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=12;endArrow=block;endSize=7;html=1;exitX=0.5;exitY=1.0;exitPerimeter=1;entryX=0.7555555555555555;entryY=0.0;entryPerimeter=1;" edge="1" parent="1" source="xIX7MKVSHuf0jgSmG4Yd-22" target="xIX7MKVSHuf0jgSmG4Yd-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1464" y="1081" />
+              <mxPoint x="1458" y="1081" />
               <mxPoint x="1380" y="1081" />
             </Array>
           </mxGeometry>
