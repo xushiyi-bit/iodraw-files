@@ -778,7 +778,7 @@
           <mxGeometry x="261.5" y="852" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-19" value="删除成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="259" y="1050" width="129" height="100" as="geometry" />
+          <mxGeometry x="259" y="975" width="129" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-20" value="提示删除失败原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="142" y="1251" width="188" height="49" as="geometry" />
