@@ -601,6 +601,72 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-1" value="巡检表&#xa;PK inspection_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="714" y="99" width="178" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-2" value="病害表&#xa;PK defect_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="377" y="32" width="151" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-3" value="养护表&#xa;PK maintenance_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="197" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-4" value="古桥表&#xa;PK bridge_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="20" width="150" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-5" value="工作人员表&#xa;PK staff_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="214" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-6" value="bridge_id" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0;entryY=0.25;rounded=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="964" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-7" value="bridge_id" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.42;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="621" y="53" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-8" value="bridge_id" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.28;entryY=1;rounded=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="297" y="200" />
+              <mxPoint x="964" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-9" value="inspector_id" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-1" target="PiRKc-YdtvhrkpM4y9pU-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="964" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-10" value="maintainer_id" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1.01;entryX=0;entryY=0.62;rounded=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="297" y="263" />
+              <mxPoint x="964" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-11" value="inspection_id 可空" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-2" target="PiRKc-YdtvhrkpM4y9pU-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="621" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PiRKc-YdtvhrkpM4y9pU-12" value="defect_id 可空" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="PiRKc-YdtvhrkpM4y9pU-3" target="PiRKc-YdtvhrkpM4y9pU-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="297" y="66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
