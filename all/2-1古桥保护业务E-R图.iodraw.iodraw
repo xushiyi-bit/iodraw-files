@@ -366,11 +366,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXFaZZ_4R0WEY9KHImyO-23" value="查询" style="startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-8">
+        <mxCell id="RXFaZZ_4R0WEY9KHImyO-23" value="查询" style="startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXFaZZ_4R0WEY9KHImyO-7" target="RXFaZZ_4R0WEY9KHImyO-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="353.88376787040033" y="525.8261648563081" />
-              <mxPoint x="259.58019474215223" y="525.8261648563081" />
+              <mxPoint x="354" y="481" />
+              <mxPoint x="354" y="526" />
+              <mxPoint x="260" y="526" />
             </Array>
             <mxPoint x="353.88376787040033" y="515.9279657134713" as="sourcePoint" />
           </mxGeometry>
