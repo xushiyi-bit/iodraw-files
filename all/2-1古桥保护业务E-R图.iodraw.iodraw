@@ -602,7 +602,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-1" value="巡检表&#xa;PK inspection_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="124" width="178" height="66" as="geometry" />
+          <mxGeometry x="500" y="130" width="178" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PiRKc-YdtvhrkpM4y9pU-2" value="病害表&#xa;PK defect_id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="20" width="151" height="66" as="geometry" />
