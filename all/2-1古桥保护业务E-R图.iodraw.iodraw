@@ -590,7 +590,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3XL6I95lYLL9juZEN1bX-1" value="" style="group;" vertex="1" parent="1">
-          <mxGeometry x="321.1386138613861" y="130" width="187.72277227722765" height="106.31276901004304" as="geometry" />
+          <mxGeometry x="319.63861386138603" y="130" width="187.72277227722765" height="106.31276901004304" as="geometry" />
         </mxCell>
         <mxCell id="3XL6I95lYLL9juZEN1bX-2" value="&lt;b&gt;古桥档案表&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:14px&#39;&gt;bridges&lt;/span&gt;" style="html=1;whiteSpace=wrap;strokeColor=#435863;strokeWidth=1;fontColor=#202c34;fontFamily=Microsoft YaHei;fillColor=#eff5f6;fontSize=20;align=center;" vertex="1" parent="3XL6I95lYLL9juZEN1bX-1">
           <mxGeometry width="187.72277227722765" height="47.43185078909614" as="geometry" />
@@ -632,7 +632,7 @@
           <mxGeometry x="122.019801980198" y="106.31276901004304" width="56.3168316831683" height="29.440459110473462" as="geometry" />
         </mxCell>
         <mxCell id="3XL6I95lYLL9juZEN1bX-15" value="" style="group;" vertex="1" parent="1">
-          <mxGeometry x="319.6386138613861" y="314.82043041606886" width="187.72277227722765" height="135.75322812051652" as="geometry" />
+          <mxGeometry x="319.63861386138603" y="314.82043041606886" width="187.72277227722765" height="135.75322812051652" as="geometry" />
         </mxCell>
         <mxCell id="3XL6I95lYLL9juZEN1bX-16" value="&lt;b&gt;病害记录表&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:14px&#39;&gt;defects&lt;/span&gt;" style="html=1;whiteSpace=wrap;strokeColor=#435863;strokeWidth=1;fontColor=#202c34;fontFamily=Microsoft YaHei;fillColor=#eff5f6;fontSize=20;align=center;" vertex="1" parent="3XL6I95lYLL9juZEN1bX-15">
           <mxGeometry y="47.43" width="187.72277227722765" height="47.43185078909614" as="geometry" />
