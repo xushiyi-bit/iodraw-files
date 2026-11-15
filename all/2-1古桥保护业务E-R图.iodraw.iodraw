@@ -826,10 +826,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-31" value="取消" style="startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="A48PPvCG1zbCq7HHLWkh-16" target="A48PPvCG1zbCq7HHLWkh-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="793" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-32" value="确认" style="startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="A48PPvCG1zbCq7HHLWkh-16" target="A48PPvCG1zbCq7HHLWkh-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="802" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="A48PPvCG1zbCq7HHLWkh-33" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="A48PPvCG1zbCq7HHLWkh-18" target="A48PPvCG1zbCq7HHLWkh-19">
           <mxGeometry relative="1" as="geometry" />
