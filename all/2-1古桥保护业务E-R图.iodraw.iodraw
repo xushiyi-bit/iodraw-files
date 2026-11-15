@@ -808,7 +808,7 @@
           <mxGeometry x="1272.5156794425088" y="883.889674681754" width="91.04529616724739" height="61.86704384724187" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-19" value="确认删除？" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1413.2865156794423" y="784.2149929278643" width="102.25087108013938" height="68.74115983026873" as="geometry" />
+          <mxGeometry x="1400" y="800" width="115.54" height="52.95" as="geometry" />
         </mxCell>
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-20" value="返回当前列表" style="rounded=1;arcSize=15;html=1;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1542.1498257839721" y="793.3804809052333" width="98.04878048780488" height="50.4101838755304" as="geometry" />
@@ -898,8 +898,8 @@
         <mxCell id="xIX7MKVSHuf0jgSmG4Yd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=12;endArrow=block;endSize=7;html=1;exitX=0.5;exitY=1.0;exitPerimeter=1;entryX=0.5;entryY=0.0;entryPerimeter=1;" edge="1" parent="1" source="xIX7MKVSHuf0jgSmG4Yd-13" target="xIX7MKVSHuf0jgSmG4Yd-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1518" y="773" />
-              <mxPoint x="1464" y="773" />
+              <mxPoint x="1518" y="770" />
+              <mxPoint x="1464" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
