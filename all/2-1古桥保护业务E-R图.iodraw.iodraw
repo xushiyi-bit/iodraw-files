@@ -571,25 +571,25 @@
           <mxGeometry x="293.51" y="175.17" width="196.49" height="139.8" as="geometry" />
         </mxCell>
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-17" value="&lt;b&gt;病害记录表&lt;/b&gt;&lt;br&gt;&lt;span style=&#39;font-size:14px&#39;&gt;defects&lt;/span&gt;" style="html=1;whiteSpace=wrap;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=20;align=center;" vertex="1" parent="lvJ8fPx2OUfxTvvf_ter-16">
-          <mxGeometry width="196.49" height="48.84578313253012" as="geometry" />
+          <mxGeometry width="196.48999999999998" height="48.84578313253012" as="geometry" />
         </mxCell>
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-18" value="bridge_id" style="html=1;whiteSpace=wrap;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=17;align=left;spacingLeft=11;" vertex="1" parent="lvJ8fPx2OUfxTvvf_ter-16">
-          <mxGeometry y="48.84578313253012" width="196.49" height="30.31807228915663" as="geometry" />
+          <mxGeometry y="48.84578313253012" width="196.48999999999998" height="30.31807228915663" as="geometry" />
         </mxCell>
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-19" value="FK" style="text;html=1;align=right;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;" vertex="1" parent="lvJ8fPx2OUfxTvvf_ter-16">
-          <mxGeometry x="127.7185" y="48.84578313253012" width="58.947" height="30.31807228915663" as="geometry" />
+          <mxGeometry x="127.7185" y="48.84578313253012" width="58.946999999999996" height="30.31807228915663" as="geometry" />
         </mxCell>
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-20" value="inspection_id" style="html=1;whiteSpace=wrap;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=17;align=left;spacingLeft=11;" vertex="1" parent="lvJ8fPx2OUfxTvvf_ter-16">
-          <mxGeometry y="79.16385542168675" width="196.49" height="30.31807228915663" as="geometry" />
+          <mxGeometry y="79.16385542168675" width="196.48999999999998" height="30.31807228915663" as="geometry" />
         </mxCell>
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-21" value="FK · 可空" style="text;html=1;align=right;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;" vertex="1" parent="lvJ8fPx2OUfxTvvf_ter-16">
-          <mxGeometry x="127.7185" y="79.16385542168675" width="58.947" height="30.31807228915663" as="geometry" />
+          <mxGeometry x="127.7185" y="79.16385542168675" width="58.946999999999996" height="30.31807228915663" as="geometry" />
         </mxCell>
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-22" value="defect_id" style="html=1;whiteSpace=wrap;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=17;align=left;spacingLeft=11;" vertex="1" parent="lvJ8fPx2OUfxTvvf_ter-16">
-          <mxGeometry y="109.4819277108434" width="196.49" height="30.31807228915663" as="geometry" />
+          <mxGeometry y="109.4819277108434" width="196.48999999999998" height="30.31807228915663" as="geometry" />
         </mxCell>
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-23" value="PK" style="text;html=1;align=right;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;" vertex="1" parent="lvJ8fPx2OUfxTvvf_ter-16">
-          <mxGeometry x="127.7185" y="109.4819277108434" width="58.947" height="30.31807228915663" as="geometry" />
+          <mxGeometry x="127.7185" y="109.4819277108434" width="58.946999999999996" height="30.31807228915663" as="geometry" />
         </mxCell>
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-24" value="" style="group;" vertex="1" parent="lvJ8fPx2OUfxTvvf_ter-48">
           <mxGeometry x="560.3465346534654" y="175.17360114777617" width="182.97029702970298" height="170.12051649928264" as="geometry" />
