@@ -642,8 +642,8 @@
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=14;curved=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=block;endFill=1;endSize=6;strokeWidth=1.5;exitX=0;exitY=0.5;exitPerimeter=1;entryX=0;entryY=0.3055555555555556;entryPerimeter=1;" edge="1" parent="lvJ8fPx2OUfxTvvf_ter-48" source="lvJ8fPx2OUfxTvvf_ter-10" target="lvJ8fPx2OUfxTvvf_ter-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint y="239.1793400286944" />
-              <mxPoint y="58.11047345767575" />
+              <mxPoint x="11" y="239" />
+              <mxPoint x="11" y="58" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -672,8 +672,8 @@
         <mxCell id="lvJ8fPx2OUfxTvvf_ter-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;arcSize=14;curved=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=block;endFill=1;endSize=6;strokeWidth=1.5;exitX=0;exitY=0.5;exitPerimeter=1;entryX=0;entryY=0.5;entryPerimeter=1;" edge="1" parent="lvJ8fPx2OUfxTvvf_ter-48" source="lvJ8fPx2OUfxTvvf_ter-14" target="lvJ8fPx2OUfxTvvf_ter-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint y="299.8163558106169" />
-              <mxPoint y="513.7302725968436" />
+              <mxPoint x="11" y="300" />
+              <mxPoint x="11" y="514" />
             </Array>
           </mxGeometry>
         </mxCell>
