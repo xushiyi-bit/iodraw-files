@@ -137,7 +137,7 @@
           <mxGeometry x="150" y="20" width="150" height="450" as="geometry" />
         </mxCell>
         <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-2" value="IIS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="350" y="20" width="150" height="523" as="geometry" />
+          <mxGeometry x="350" y="20" width="150" height="450" as="geometry" />
         </mxCell>
         <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-3" value="请求站点根路径 /" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="WXJ0xYkLa4MtnqIE5EZ5-1" target="WXJ0xYkLa4MtnqIE5EZ5-2">
           <mxGeometry relative="1" as="geometry">
@@ -175,9 +175,6 @@
         </mxCell>
         <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-9" value="显示完整的个人简介页" style="strokeColor=#f5e056;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="180" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="438" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
