@@ -59,7 +59,7 @@
           <mxGeometry x="380" y="411.5" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-7" value="取出一条消息并解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="310" width="204" height="49" as="geometry" />
+          <mxGeometry x="450" y="300" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-8" value="将解码后的文字放入队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="591" y="600" width="236" height="49" as="geometry" />
@@ -97,7 +97,8 @@
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-15" value="没有" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.71;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="8jwpL8fPQWD4UfYD3hVK-6" target="8jwpL8fPQWD4UfYD3hVK-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="410" />
+              <mxPoint x="360" y="457" />
+              <mxPoint x="360" y="410" />
               <mxPoint x="286" y="410" />
             </Array>
           </mxGeometry>
