@@ -53,7 +53,7 @@
           <mxGeometry x="116" y="316" width="239" height="66" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-5" value="将收到的字节追加到缓冲区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="432" width="252" height="49" as="geometry" />
+          <mxGeometry x="60" y="432" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-6" value="缓冲区中有换行符吗" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="193" height="193" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="591" y="600" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-9" value="界面线程更新接收记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="126" y="994" width="220" height="49" as="geometry" />
+          <mxGeometry x="640" y="770" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="8jwpL8fPQWD4UfYD3hVK-1" target="8jwpL8fPQWD4UfYD3hVK-2">
           <mxGeometry relative="1" as="geometry">
