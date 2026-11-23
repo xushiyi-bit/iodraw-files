@@ -56,7 +56,7 @@
           <mxGeometry x="60" y="432" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-6" value="缓冲区中有换行符吗" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="432" width="180" height="90" as="geometry" />
+          <mxGeometry x="380" y="411.5" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-7" value="取出一条消息并解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="204" height="49" as="geometry" />
@@ -89,15 +89,18 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="186" y="520" />
-              <mxPoint x="356" y="520" />
-              <mxPoint x="356" y="490" />
-              <mxPoint x="445" y="490" />
+              <mxPoint x="445" y="520" />
               <mxPoint x="445" y="522" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-15" value="没有" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.71;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="8jwpL8fPQWD4UfYD3hVK-6" target="8jwpL8fPQWD4UfYD3hVK-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="410" />
+              <mxPoint x="286" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-16" value="有" style="startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0.5;entryY=0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="8jwpL8fPQWD4UfYD3hVK-6" target="8jwpL8fPQWD4UfYD3hVK-7">
           <mxGeometry relative="1" as="geometry" />
