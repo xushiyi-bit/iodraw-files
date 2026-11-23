@@ -133,48 +133,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-1" value="浏览器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="150" y="20" width="150" height="450" as="geometry" />
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="20" width="638" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-2" value="IIS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="350" y="20" width="150" height="450" as="geometry" />
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-1" value="浏览器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=15;" vertex="1" parent="WXJ0xYkLa4MtnqIE5EZ5-11">
+          <mxGeometry x="110" width="150" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-3" value="请求站点根路径 /" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="WXJ0xYkLa4MtnqIE5EZ5-1" target="WXJ0xYkLa4MtnqIE5EZ5-2">
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-2" value="IIS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=15;" vertex="1" parent="WXJ0xYkLa4MtnqIE5EZ5-11">
+          <mxGeometry x="310" width="150" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-3" value="请求站点根路径 /" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="WXJ0xYkLa4MtnqIE5EZ5-11" source="WXJ0xYkLa4MtnqIE5EZ5-1" target="WXJ0xYkLa4MtnqIE5EZ5-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="334" y="127" />
+              <mxPoint x="294" y="107" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-4" value="返回 index.htm" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=15;" edge="1" parent="1" source="WXJ0xYkLa4MtnqIE5EZ5-2" target="WXJ0xYkLa4MtnqIE5EZ5-1">
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-4" value="返回 index.htm" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=15;" edge="1" parent="WXJ0xYkLa4MtnqIE5EZ5-11" source="WXJ0xYkLa4MtnqIE5EZ5-2" target="WXJ0xYkLa4MtnqIE5EZ5-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="337" y="281" />
+              <mxPoint x="297" y="261" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-5" value="请求 /photo.jpg" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="WXJ0xYkLa4MtnqIE5EZ5-1" target="WXJ0xYkLa4MtnqIE5EZ5-2">
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-5" value="请求 /photo.jpg" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="WXJ0xYkLa4MtnqIE5EZ5-11" source="WXJ0xYkLa4MtnqIE5EZ5-1" target="WXJ0xYkLa4MtnqIE5EZ5-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="334" y="337" />
+              <mxPoint x="294" y="317" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-6" value="返回图片" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=15;" edge="1" parent="1" source="WXJ0xYkLa4MtnqIE5EZ5-2" target="WXJ0xYkLa4MtnqIE5EZ5-1">
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-6" value="返回图片" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=15;" edge="1" parent="WXJ0xYkLa4MtnqIE5EZ5-11" source="WXJ0xYkLa4MtnqIE5EZ5-2" target="WXJ0xYkLa4MtnqIE5EZ5-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="337" y="389" />
+              <mxPoint x="297" y="369" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-7" value="匹配 8080 端口的 CJY 站点" style="strokeColor=#f5e056;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="450" y="147" width="209" height="49" as="geometry" />
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-7" value="匹配 8080 端口的 CJY 站点" style="strokeColor=#f5e056;fontSize=15;" vertex="1" parent="WXJ0xYkLa4MtnqIE5EZ5-11">
+          <mxGeometry x="410" y="127" width="209" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-8" value="在网站主目录中查找默认文档" style="strokeColor=#f5e056;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="450" y="196" width="228" height="49" as="geometry" />
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-8" value="在网站主目录中查找默认文档" style="strokeColor=#f5e056;fontSize=15;" vertex="1" parent="WXJ0xYkLa4MtnqIE5EZ5-11">
+          <mxGeometry x="410" y="176" width="228" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-9" value="显示完整的个人简介页" style="strokeColor=#f5e056;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="180" height="49" as="geometry" />
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-9" value="显示完整的个人简介页" style="strokeColor=#f5e056;fontSize=15;" vertex="1" parent="WXJ0xYkLa4MtnqIE5EZ5-11">
+          <mxGeometry y="380" width="180" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
