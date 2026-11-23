@@ -4,27 +4,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H0zN9TLuQBMuapT2rk92-1" value="计算机 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="47" width="123" height="49" as="geometry" />
+        <mxCell id="H0zN9TLuQBMuapT2rk92-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="20" width="480" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="H0zN9TLuQBMuapT2rk92-2" value="计算机 B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="378" y="47" width="122" height="49" as="geometry" />
+        <mxCell id="H0zN9TLuQBMuapT2rk92-1" value="计算机 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="H0zN9TLuQBMuapT2rk92-6">
+          <mxGeometry y="27" width="123" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="H0zN9TLuQBMuapT2rk92-3" value="A 的 3 号针 TXD 接 B 的 2 号针 RXD" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="H0zN9TLuQBMuapT2rk92-1" target="H0zN9TLuQBMuapT2rk92-2">
+        <mxCell id="H0zN9TLuQBMuapT2rk92-2" value="计算机 B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="H0zN9TLuQBMuapT2rk92-6">
+          <mxGeometry x="358" y="27" width="122" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="H0zN9TLuQBMuapT2rk92-3" value="A 的 3 号针 TXD 接 B 的 2 号针 RXD" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="H0zN9TLuQBMuapT2rk92-6" source="H0zN9TLuQBMuapT2rk92-1" target="H0zN9TLuQBMuapT2rk92-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="261" y="20" />
+              <mxPoint x="241" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H0zN9TLuQBMuapT2rk92-4" value="B 的 3 号针 TXD 接 A 的 2 号针 RXD" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=1;entryY=0.86;rounded=0;" edge="1" parent="1" source="H0zN9TLuQBMuapT2rk92-2" target="H0zN9TLuQBMuapT2rk92-1">
+        <mxCell id="H0zN9TLuQBMuapT2rk92-4" value="B 的 3 号针 TXD 接 A 的 2 号针 RXD" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=1;entryY=0.86;rounded=0;" edge="1" parent="H0zN9TLuQBMuapT2rk92-6" source="H0zN9TLuQBMuapT2rk92-2" target="H0zN9TLuQBMuapT2rk92-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="261" y="123" />
+              <mxPoint x="241" y="103" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H0zN9TLuQBMuapT2rk92-5" value="两端 5 号针 GND 相连" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="H0zN9TLuQBMuapT2rk92-1" target="H0zN9TLuQBMuapT2rk92-2">
+        <mxCell id="H0zN9TLuQBMuapT2rk92-5" value="两端 5 号针 GND 相连" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="H0zN9TLuQBMuapT2rk92-6" source="H0zN9TLuQBMuapT2rk92-1" target="H0zN9TLuQBMuapT2rk92-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
