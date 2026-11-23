@@ -59,10 +59,10 @@
           <mxGeometry x="400" y="310" width="193" height="193" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-7" value="取出一条消息并解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="796" width="204" height="49" as="geometry" />
+          <mxGeometry x="570" y="310" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-8" value="将解码后的文字放入队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118" y="895" width="236" height="49" as="geometry" />
+          <mxGeometry x="591" y="600" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-9" value="界面线程更新接收记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="126" y="994" width="220" height="49" as="geometry" />
