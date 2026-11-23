@@ -56,7 +56,7 @@
           <mxGeometry x="60" y="432" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-6" value="缓冲区中有换行符吗" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="180" height="90" as="geometry" />
+          <mxGeometry x="400" y="432" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-7" value="取出一条消息并解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="204" height="49" as="geometry" />
