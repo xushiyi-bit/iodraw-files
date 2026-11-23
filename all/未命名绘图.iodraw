@@ -59,7 +59,7 @@
           <mxGeometry x="380" y="450" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-7" value="取出一条消息并解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="368" y="280" width="204" height="49" as="geometry" />
+          <mxGeometry x="368" y="267" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-8" value="将解码后的文字放入队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="632" y="420" width="236" height="49" as="geometry" />
@@ -115,10 +115,11 @@
         <mxCell id="8jwpL8fPQWD4UfYD3hVK-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8jwpL8fPQWD4UfYD3hVK-8" target="8jwpL8fPQWD4UfYD3hVK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8jwpL8fPQWD4UfYD3hVK-19" value="" style="startArrow=none;endArrow=block;exitX=0.64;exitY=0;entryX=0.76;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8jwpL8fPQWD4UfYD3hVK-8" target="8jwpL8fPQWD4UfYD3hVK-6">
+        <mxCell id="8jwpL8fPQWD4UfYD3hVK-19" value="" style="startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.76;entryY=1;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="8jwpL8fPQWD4UfYD3hVK-8" target="8jwpL8fPQWD4UfYD3hVK-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="596" y="420" />
+              <mxPoint x="691" y="490" />
+              <mxPoint x="596" y="490" />
               <mxPoint x="596" y="525" />
             </Array>
           </mxGeometry>
