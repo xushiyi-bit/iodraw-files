@@ -174,7 +174,10 @@
           <mxGeometry x="450" y="196" width="228" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-9" value="显示完整的个人简介页" style="strokeColor=#f5e056;" vertex="1" parent="1">
-          <mxGeometry x="20" y="409" width="180" height="49" as="geometry" />
+          <mxGeometry x="40" y="400" width="180" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="438" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
