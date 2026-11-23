@@ -167,13 +167,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-7" value="匹配 8080 端口的 CJY 站点" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-7" value="匹配 8080 端口的 CJY 站点" style="" vertex="1" parent="1">
           <mxGeometry x="450" y="147" width="209" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-8" value="在网站主目录中查找默认文档" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-8" value="在网站主目录中查找默认文档" style="" vertex="1" parent="1">
           <mxGeometry x="450" y="196" width="228" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-9" value="显示完整的个人简介页" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="WXJ0xYkLa4MtnqIE5EZ5-9" value="显示完整的个人简介页" style="" vertex="1" parent="1">
           <mxGeometry x="20" y="409" width="180" height="49" as="geometry" />
         </mxCell>
       </root>
